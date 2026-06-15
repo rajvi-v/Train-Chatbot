@@ -1,0 +1,8 @@
+Station disruption plan: SANDOWN - Communication With Control
+Source: RM South/Station Disruption Plan - Sandown Issue  2 - January 2021.docx
+Category: station_disruption
+Location: SANDOWN
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for SANDOWN. Category: station disruption. Location: SANDOWN. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

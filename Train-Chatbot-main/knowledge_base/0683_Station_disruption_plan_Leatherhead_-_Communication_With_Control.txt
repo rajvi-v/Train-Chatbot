@@ -1,0 +1,8 @@
+Station disruption plan: Leatherhead - Communication With Control
+Source: RM Central/Station Disruption Plan - Leatherhead Issue 1a - April 2018.docm
+Category: station_disruption
+Location: Leatherhead
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Leatherhead. Category: station disruption. Location: Leatherhead. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

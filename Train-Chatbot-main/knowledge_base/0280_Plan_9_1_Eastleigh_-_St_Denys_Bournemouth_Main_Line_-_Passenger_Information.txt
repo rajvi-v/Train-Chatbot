@@ -1,0 +1,8 @@
+Plan 9.1 Eastleigh - St. Denys Bournemouth Main Line - Passenger Information
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Eastleigh - St. Denys Bournemouth Main Line
+Blockage type: All lines blocked ( No access to E.S. junc)
+Audience: passenger
+
+Plan 9.1 Eastleigh - St. Denys Bournemouth Main Line. Category: line blockage. Location: Eastleigh - St. Denys Bournemouth Main Line. Blockage type: All lines blocked ( No access to E.S. junc). Audience: passenger. Recommended action (passenger_info): Local buses. X4,X9 Eastleigh to Hedge End (hourly) @ 0816 to 1816. X9 Botley to Hedge End and Eastleigh (hourly) @ 0640 to 1800. From Fareham train to Hamble then X15 to Hedge End and Botley (1002/1302 only). From Winchester to Shawford E2.3 times a day 25 minutes. Winchester to Romsey bus 66 every 30 minutes Journey 35 minutes. Winchester to Chandlers Ford and Southampton 1Bluestar every 15-20 minutes to Chandlers Ford 20 minutes, Southampton 40 minutes. Eastleigh to Winchester E1,E2 journey 40-50 minutes Bus 2 Southampton to Eastleigh every 15 minutes St. Denys (9 minutes), Swaythling 18 minutes and Eastleigh 36 minutes a nd return. Bus U1A/C Eastleigh to Southampton Central via Southampton Airport and Swaythling, Every 15-20 minutes Eastleigh to Parkway 5 minutes, to Swaythling 10 Minutes, to Southampton Central 35 minutes.

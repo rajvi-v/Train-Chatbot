@@ -1,0 +1,8 @@
+Plan 2.1 Hampton Court Junction - Weybridge Bournemouth Main Line - Principles of Service Alteration
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Hampton Court Junction - Weybridge Bournemouth Main Line
+Blockage type: DMFL blocked
+Audience: service_controller
+
+Plan 2.1 Hampton Court Junction - Weybridge Bournemouth Main Line. Category: line blockage. Location: Hampton Court Junction - Weybridge Bournemouth Main Line. Blockage type: DMFL blocked. Audience: service_controller. Recommended action (service_alteration): Trains diverted via DMSL.

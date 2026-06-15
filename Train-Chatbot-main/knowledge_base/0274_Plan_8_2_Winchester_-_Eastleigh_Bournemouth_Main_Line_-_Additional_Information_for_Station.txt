@@ -1,0 +1,8 @@
+Plan 8.2 Winchester - Eastleigh Bournemouth Main Line - Additional Information for Station Staff
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Winchester - Eastleigh Bournemouth Main Line
+Blockage type: One line blocked (in either direction)
+Audience: station_staff
+
+Plan 8.2 Winchester - Eastleigh Bournemouth Main Line. Category: line blockage. Location: Winchester - Eastleigh Bournemouth Main Line. Blockage type: One line blocked (in either direction). Audience: station_staff. Recommended action (station_staff_info): SWR Bus Replacement Winchester to Eastleigh to supplement train service. Winchester - Shawford - Eastleigh (mini bus).

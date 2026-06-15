@@ -1,0 +1,8 @@
+Plan 5.3 Pirbright Junction - Basingstoke Bournemouth Main Line - Passenger Information
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Pirbright Junction - Basingstoke Bournemouth Main Line
+Blockage type: All lines blocked
+Audience: passenger
+
+Plan 5.3 Pirbright Junction - Basingstoke Bournemouth Main Line. Category: line blockage. Location: Pirbright Junction - Basingstoke Bournemouth Main Line. Blockage type: All lines blocked. Audience: passenger. Recommended action (passenger_info): Local buses. Basingstoke to Hook and Alton Bus 13 Hourly Hook 18 minutes Alton 42 minutes Fleet to Aldershot infrequent journey 45 minutes. Farnborough to Fleet Bus 10 Hourly 15 minutes Farnborough to Aldershot bus Gold 1 Farnborough to Farnborough North (5 mins) bus 41 Infrequent ( Walk 10-12 Minutes) Brookwood to Woking Buses 28,48,91 Infrequent 30 minutes.

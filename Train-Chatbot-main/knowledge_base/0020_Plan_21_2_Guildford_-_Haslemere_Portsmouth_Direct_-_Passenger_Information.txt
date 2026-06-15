@@ -1,0 +1,8 @@
+Plan 21.2 Guildford - Haslemere Portsmouth Direct - Passenger Information
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Guildford - Haslemere Portsmouth Direct
+Blockage type: One line blocked (in either direction)
+Audience: passenger
+
+Plan 21.2 Guildford - Haslemere Portsmouth Direct. Category: line blockage. Location: Guildford - Haslemere Portsmouth Direct. Blockage type: One line blocked (in either direction). Audience: passenger. Recommended action (passenger_info): Local buses. Passengers from Guildford to Farncombe bus 42/46 (infrequent, journey time 11 minutes) Passengers from Guildford to Godalming bus 42/46/70/71/72 (half hourly 21 minutes) Passengers from Milford to Guildford 70,71,503,523 Passengers from Witley for Haslemere, Milford, Godalming Passengers from Haslemere to Witley, Milford, Godalming, Farncombe and Guildford (70,71 buses Hourly, 50 minutes HSL-GLD).

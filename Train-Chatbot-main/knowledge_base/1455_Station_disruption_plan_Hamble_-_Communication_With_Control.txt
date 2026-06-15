@@ -1,0 +1,8 @@
+Station disruption plan: Hamble - Communication With Control
+Source: RM South/Station Disruption Plan - Hamble Issue 2 - February 2021.docx
+Category: station_disruption
+Location: Hamble
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Hamble. Category: station disruption. Location: Hamble. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

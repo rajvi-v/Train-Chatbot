@@ -1,0 +1,8 @@
+Plan 8.2 Winchester - Eastleigh Bournemouth Main Line - Principles of Service Alteration
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Winchester - Eastleigh Bournemouth Main Line
+Blockage type: One line blocked (in either direction)
+Audience: service_controller
+
+Plan 8.2 Winchester - Eastleigh Bournemouth Main Line. Category: line blockage. Location: Winchester - Eastleigh Bournemouth Main Line. Blockage type: One line blocked (in either direction). Audience: service_controller. Recommended action (service_alteration): 1Wxx xx.05 Waterloo - Weymouth & return services via SIMBIDS . SSO Micheldever 1Bxx xx.35 Waterloo - Poole & return services Divert via Havant . 2Bxx xx.49 Winchester - Bournemouth & return services run between Southampton and Poole . 1Txx xx.09 Waterloo - Portsmouth Harbour (EH) & return services run between Eastleigh and Portsmouth only. CrossCountry : 1Oxx (Down) & 1Mxx (Up) services divert between Basingstoke and Southampton Central via Laverstock/Chandlers Ford/Test Valley or services terminate/start at Reading. Freight services diverted via Andover or Westbury. Shawford served by minibus.

@@ -1,0 +1,8 @@
+Plan 2.1 Hampton Court Junction - Weybridge Bournemouth Main Line - Passenger Information
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Hampton Court Junction - Weybridge Bournemouth Main Line
+Blockage type: DMFL blocked
+Audience: passenger
+
+Plan 2.1 Hampton Court Junction - Weybridge Bournemouth Main Line. Category: line blockage. Location: Hampton Court Junction - Weybridge Bournemouth Main Line. Blockage type: DMFL blocked. Audience: passenger. Recommended action (passenger_info): Local buses. Surbiton to/from Weybridge Bus 515 (Hourly) Esher 30 minutes, Hersham 32 minutes, Walton on Thames 42 minutes, Weybridge 50 minutes.

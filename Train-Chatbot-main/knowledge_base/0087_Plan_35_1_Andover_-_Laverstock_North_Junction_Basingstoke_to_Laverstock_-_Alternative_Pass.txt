@@ -1,0 +1,8 @@
+Plan 35.1 Andover - Laverstock North Junction Basingstoke to Laverstock - Alternative Passenger Journey
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Andover - Laverstock North Junction Basingstoke to Laverstock
+Blockage type: Both lines blocked
+Audience: passenger
+
+Plan 35.1 Andover - Laverstock North Junction Basingstoke to Laverstock. Category: line blockage. Location: Andover - Laverstock North Junction Basingstoke to Laverstock. Blockage type: Both lines blocked. Audience: passenger. Recommended action (alternative_passenger_journey): SWR Bus to run Andover to Salisbury and return.

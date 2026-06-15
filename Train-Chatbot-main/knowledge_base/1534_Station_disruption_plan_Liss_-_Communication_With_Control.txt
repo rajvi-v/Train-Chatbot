@@ -1,0 +1,8 @@
+Station disruption plan: Liss - Communication With Control
+Source: RM South/Station Disruption Plan - Liss Issue 2-2020.docx
+Category: station_disruption
+Location: Liss
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Liss. Category: station disruption. Location: Liss. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

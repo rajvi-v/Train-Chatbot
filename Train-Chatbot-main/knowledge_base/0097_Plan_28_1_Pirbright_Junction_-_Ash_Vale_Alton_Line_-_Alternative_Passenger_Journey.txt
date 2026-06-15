@@ -1,0 +1,8 @@
+Plan 28.1 Pirbright Junction - Ash Vale Alton Line - Alternative Passenger Journey
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Pirbright Junction - Ash Vale Alton Line
+Blockage type: Both lines blocked
+Audience: passenger
+
+Plan 28.1 Pirbright Junction - Ash Vale Alton Line. Category: line blockage. Location: Pirbright Junction - Ash Vale Alton Line. Blockage type: Both lines blocked. Audience: passenger. Recommended action (alternative_passenger_journey): SWR Bus replacement Brookwood to Ash Vale and Aldershot. 1Axx SSO Guildford, Wanborough and Ash in both directions. Use 2Jxx crew as Pilot crew if required.

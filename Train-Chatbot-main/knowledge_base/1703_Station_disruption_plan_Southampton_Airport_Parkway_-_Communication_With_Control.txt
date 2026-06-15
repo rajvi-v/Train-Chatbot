@@ -1,0 +1,8 @@
+Station disruption plan: Southampton Airport Parkway - Communication With Control
+Source: RM South/Station Disruption Plan - Southampton Airport Parkway Issue 2 February 2021.docx
+Category: station_disruption
+Location: Southampton Airport Parkway
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Southampton Airport Parkway. Category: station disruption. Location: Southampton Airport Parkway. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

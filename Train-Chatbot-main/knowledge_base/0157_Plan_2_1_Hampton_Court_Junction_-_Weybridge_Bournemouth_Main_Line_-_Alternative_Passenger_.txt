@@ -1,0 +1,8 @@
+Plan 2.1 Hampton Court Junction - Weybridge Bournemouth Main Line - Alternative Passenger Journey
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Hampton Court Junction - Weybridge Bournemouth Main Line
+Blockage type: DMFL blocked
+Audience: passenger
+
+Plan 2.1 Hampton Court Junction - Weybridge Bournemouth Main Line. Category: line blockage. Location: Hampton Court Junction - Weybridge Bournemouth Main Line. Blockage type: DMFL blocked. Audience: passenger. Recommended action (alternative_passenger_journey): 2Fxx Waterloo to Woking run fast Surbiton to Weybridge.

@@ -1,0 +1,8 @@
+Plan 13.1 Southampton - Redbridge / Totton Bournemouth Main Line - Alternative Passenger Journey
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Southampton - Redbridge / Totton Bournemouth Main Line
+Blockage type: All lines blocked
+Audience: passenger
+
+Plan 13.1 Southampton - Redbridge / Totton Bournemouth Main Line. Category: line blockage. Location: Southampton - Redbridge / Totton Bournemouth Main Line. Blockage type: All lines blocked. Audience: passenger. Recommended action (alternative_passenger_journey): SWR bus replacement. Local buses.

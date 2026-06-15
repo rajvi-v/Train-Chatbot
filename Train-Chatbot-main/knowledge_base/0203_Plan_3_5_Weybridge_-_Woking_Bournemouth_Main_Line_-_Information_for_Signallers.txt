@@ -1,0 +1,8 @@
+Plan 3.5 Weybridge - Woking Bournemouth Main Line - Information for Signallers
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Weybridge - Woking Bournemouth Main Line
+Blockage type: DMSL & DMFL blocked or Status: UMSL & UMFL blocked
+Audience: signaller
+
+Plan 3.5 Weybridge - Woking Bournemouth Main Line. Category: line blockage. Location: Weybridge - Woking Bournemouth Main Line. Blockage type: DMSL & DMFL blocked or Status: UMSL & UMFL blocked. Audience: signaller. Recommended action (signaller_info): See Principals of Service Alteration. Trapped Trains possibly Divert via Cobham. Hold trains in Stations where available.

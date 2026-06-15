@@ -1,0 +1,8 @@
+Plan 5.4 Pirbright Junction - Basingstoke Bournemouth Main Line - Information for Signallers
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Pirbright Junction - Basingstoke Bournemouth Main Line
+Blockage type: Both lines blocked ( in the same direction)
+Audience: signaller
+
+Plan 5.4 Pirbright Junction - Basingstoke Bournemouth Main Line. Category: line blockage. Location: Pirbright Junction - Basingstoke Bournemouth Main Line. Blockage type: Both lines blocked ( in the same direction). Audience: signaller. Recommended action (signaller_info): WoE services terminate/start Basingstoke . 1Txx xx.09 Waterloo - Portsmouth Harbour (EH) & return services start/terminate Basingstoke . 1Bxx xx.35 Waterloo - Poole & return Divert via Havant in blocked direction . 1Wxx xx.05 Waterloo - Weymouth & return Divert via Havant in Blocked direction 2Lxx xx.12/42 Waterloo - Basingstoke stopping services terminate/start Woking or divert to Alton Trains trapped London side of blockage Consider diversion via Havant or Terminate Woking and ECS to Clapham Yard.

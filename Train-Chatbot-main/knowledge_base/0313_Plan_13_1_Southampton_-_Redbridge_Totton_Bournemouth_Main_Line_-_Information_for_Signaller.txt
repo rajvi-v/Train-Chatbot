@@ -1,0 +1,8 @@
+Plan 13.1 Southampton - Redbridge / Totton Bournemouth Main Line - Information for Signallers
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Southampton - Redbridge / Totton Bournemouth Main Line
+Blockage type: All lines blocked
+Audience: signaller
+
+Plan 13.1 Southampton - Redbridge / Totton Bournemouth Main Line. Category: line blockage. Location: Southampton - Redbridge / Totton Bournemouth Main Line. Blockage type: All lines blocked. Audience: signaller. Recommended action (signaller_info): See Principles of Service Alteration.

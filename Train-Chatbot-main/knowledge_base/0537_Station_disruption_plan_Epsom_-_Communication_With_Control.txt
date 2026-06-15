@@ -1,0 +1,8 @@
+Station disruption plan: Epsom - Communication With Control
+Source: RM Central/Station Disruption Plan - Epsom Issue 1a - April 2018.docx
+Category: station_disruption
+Location: Epsom
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Epsom. Category: station disruption. Location: Epsom. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

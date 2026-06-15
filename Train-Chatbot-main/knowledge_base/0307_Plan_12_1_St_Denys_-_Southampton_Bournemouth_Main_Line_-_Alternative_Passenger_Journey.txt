@@ -1,0 +1,8 @@
+Plan 12.1 St. Denys - Southampton Bournemouth Main Line - Alternative Passenger Journey
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: St. Denys - Southampton Bournemouth Main Line
+Blockage type: All lines blocked or both lines Status: blocked in one direction (Access to Southampton station but no access to Northam Depot)
+Audience: passenger
+
+Plan 12.1 St. Denys - Southampton Bournemouth Main Line. Category: line blockage. Location: St. Denys - Southampton Bournemouth Main Line. Blockage type: All lines blocked or both lines Status: blocked in one direction (Access to Southampton station but no access to Northam Depot). Audience: passenger. Recommended action (alternative_passenger_journey): SWR bus replacement / local buses.

@@ -1,0 +1,8 @@
+Station disruption plan: Norbiton - Communication With Control
+Source: RM Central/Station Disruption Plan - Norbiton  Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Norbiton
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Norbiton. Category: station disruption. Location: Norbiton. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

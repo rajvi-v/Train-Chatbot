@@ -1,0 +1,8 @@
+Plan 14.1 Redbridge / Totton - Brockenhurst Bournemouth Main Line - Principles of Service Alteration
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Redbridge / Totton - Brockenhurst Bournemouth Main Line
+Blockage type: All lines blocked
+Audience: service_controller
+
+Plan 14.1 Redbridge / Totton - Brockenhurst Bournemouth Main Line. Category: line blockage. Location: Redbridge / Totton - Brockenhurst Bournemouth Main Line. Blockage type: All lines blocked. Audience: service_controller. Recommended action (service_alteration): 1Wxx xx.05 Waterloo - Weymouth & return services run between Brockenhurst and Weymouth. (SSO Branksome & Parkstone) 1Bxx xx.35 Waterloo - Poole & return services run between Waterloo & Southampton (SSO Shawford ) 2Bxx xx.49 Winchester - Bournemouth & return services Cancelled throughout. Stock to berth at Bournemouth and Southampton Goods Loop CrossCountry : 1Oxx (Down) & 1Mxx (Up) services terminate / start at Southampton Central (if Capacity at Southampton is a risk terminate / start at Reading). Fast and slow bus services Southampton area - Brockenhurst and Bournemouth.

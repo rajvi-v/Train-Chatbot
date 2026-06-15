@@ -1,0 +1,8 @@
+Station disruption plan: Wandsworth Town - Communication With Control
+Source: RM Metro/Station Disruption Plan - Wandsworth Town  Issue - April 2018.docx
+Category: station_disruption
+Location: Wandsworth Town
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Wandsworth Town. Category: station disruption. Location: Wandsworth Town. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

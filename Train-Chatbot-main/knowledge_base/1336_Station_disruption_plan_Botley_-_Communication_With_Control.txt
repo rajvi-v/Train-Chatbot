@@ -1,0 +1,8 @@
+Station disruption plan: Botley - Communication With Control
+Source: RM South/Station Disruption Plan - Botley Issue 1 - March 2018.docx
+Category: station_disruption
+Location: Botley
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Botley. Category: station disruption. Location: Botley. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

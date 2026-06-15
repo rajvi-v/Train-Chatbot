@@ -1,0 +1,8 @@
+Station disruption plan: Sunnymeads - Communication With Control
+Source: RM Metro/Station Disruption Plan - Sunnymeads  Issue - April 2018.docx
+Category: station_disruption
+Location: Sunnymeads
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Sunnymeads. Category: station disruption. Location: Sunnymeads. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

@@ -1,0 +1,8 @@
+Plan 17.1 Poole - Wareham Bournemouth Main Line - Principles of Service Alteration
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Poole - Wareham Bournemouth Main Line
+Blockage type: One or both lines blocked
+Audience: service_controller
+
+Plan 17.1 Poole - Wareham Bournemouth Main Line. Category: line blockage. Location: Poole - Wareham Bournemouth Main Line. Blockage type: One or both lines blocked. Audience: service_controller. Recommended action (service_alteration): 1Wxx xx.05 Waterloo - Weymouth & return services run Waterloo to Bournemouth and Wareham to Weymouth . If stock available, shuttle service between Wareham and Weymouth (or Wool to Weymouth).

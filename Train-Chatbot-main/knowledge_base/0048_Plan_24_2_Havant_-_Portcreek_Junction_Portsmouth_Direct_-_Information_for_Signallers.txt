@@ -1,0 +1,8 @@
+Plan 24.2 Havant - Portcreek Junction Portsmouth Direct - Information for Signallers
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Havant - Portcreek Junction Portsmouth Direct
+Blockage type: One line blocked (in either direction)
+Audience: signaller
+
+Plan 24.2 Havant - Portcreek Junction Portsmouth Direct. Category: line blockage. Location: Havant - Portcreek Junction Portsmouth Direct. Blockage type: One line blocked (in either direction). Audience: signaller. Recommended action (signaller_info): See Principles of Service Alteration.

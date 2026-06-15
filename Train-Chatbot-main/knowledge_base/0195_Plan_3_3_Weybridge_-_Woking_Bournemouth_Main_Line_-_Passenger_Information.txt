@@ -1,0 +1,8 @@
+Plan 3.3 Weybridge - Woking Bournemouth Main Line - Passenger Information
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Weybridge - Woking Bournemouth Main Line
+Blockage type: DMSL blocked
+Audience: passenger
+
+Plan 3.3 Weybridge - Woking Bournemouth Main Line. Category: line blockage. Location: Weybridge - Woking Bournemouth Main Line. Blockage type: DMSL blocked. Audience: passenger. Recommended action (passenger_info): Passengers for Byfleet & New Haw circulate via West Byfleet. Passengers from Byfleet & New Haw for Woking travel to Weybridge and circulate. Local buses. Weybridge to Byfleet & New Haw (19 minutes) to West Byfleet (27 minutes) and Woking (41 minutes) Bus 436 (every hour). Addlestone to Byfleet & New Haw (9 minutes) to West Byfleet (22 minutes) and Woking (39 minutes) Bus 456 (every hour).

@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Railway Chatbot</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #172033;
+      --muted: #607089;
+      --line: #d7dee8;
+      --brand: #0b6b58;
+      --brand-dark: #084b3f;
+      --surface: #ffffff;
+      --bg: #eef3f6;
+      --user: #0b6b58;
+      --bot: #ffffff;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Arial, Helvetica, sans-serif;
+      color: var(--ink);
+      background: var(--bg);
+      display: grid;
+      place-items: center;
+      padding: 24px;
+    }
+
+    .chat-shell {
+      width: min(920px, 100%);
+      height: min(760px, calc(100vh - 48px));
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      overflow: hidden;
+      box-shadow: 0 18px 50px rgba(23, 32, 51, 0.12);
+    }
+
+    header {
+      padding: 18px 20px;
+      border-bottom: 1px solid var(--line);
+      background: #f8fafb;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 20px;
+      line-height: 1.2;
+      letter-spacing: 0;
+    }
+
+    .status {
+      margin-top: 5px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .messages {
+      padding: 20px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .message {
+      max-width: min(680px, 88%);
+      padding: 12px 14px;
+      border-radius: 8px;
+      line-height: 1.45;
+      font-size: 15px;
+      white-space: pre-wrap;
+      overflow-wrap: anywhere;
+    }
+
+    .bot {
+      align-self: flex-start;
+      background: var(--bot);
+      border: 1px solid var(--line);
+    }
+
+    .user {
+      align-self: flex-end;
+      background: var(--user);
+      color: white;
+    }
+
+    form {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 10px;
+      padding: 16px;
+      border-top: 1px solid var(--line);
+      background: #f8fafb;
+    }
+
+    input {
+      min-width: 0;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      padding: 12px 13px;
+      font-size: 15px;
+      color: var(--ink);
+      background: white;
+    }
+
+    button {
+      border: 0;
+      border-radius: 6px;
+      padding: 0 18px;
+      background: var(--brand);
+      color: white;
+      font-weight: 700;
+      cursor: pointer;
+      min-width: 88px;
+    }
+
+    button:hover { background: var(--brand-dark); }
+    button:disabled { opacity: 0.55; cursor: wait; }
+
+    @media (max-width: 640px) {
+      body { padding: 0; }
+      .chat-shell {
+        height: 100vh;
+        border-radius: 0;
+        border: 0;
+      }
+      form { grid-template-columns: 1fr; }
+      button { min-height: 44px; }
+      .message { max-width: 96%; }
+    }
+  </style>
+</head>
+<body>
+  <main class="chat-shell">
+    <header>
+      <h1>Railway Chatbot</h1>
+      <div class="status" id="status">Ready to search for the cheapest available UK train ticket</div>
+    </header>
+    <section class="messages" id="messages" aria-live="polite"></section>
+    <form id="chat-form">
+      <input id="message-input" autocomplete="off" placeholder="Type a message..." aria-label="Message">
+      <button id="send-button" type="submit">Send</button>
+    </form>
+  </main>
+
+  <script>
+    const messages = document.querySelector("#messages");
+    const form = document.querySelector("#chat-form");
+    const input = document.querySelector("#message-input");
+    const button = document.querySelector("#send-button");
+    const statusText = document.querySelector("#status");
+    const sessionId = crypto.randomUUID ? crypto.randomUUID() : String(Date.now());
+
+    addMessage("bot", "Hello, how can I help you today?");
+
+    form.addEventListener("submit", async (event) => {
+      event.preventDefault();
+      const message = input.value.trim();
+      if (!message) return;
+
+      addMessage("user", message);
+      input.value = "";
+      button.disabled = true;
+      statusText.textContent = "Thinking...";
+
+      try {
+        const response = await fetch("/api/chat", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ session_id: sessionId, message })
+        });
+
+        if (!response.ok) throw new Error("Request failed");
+        const data = await response.json();
+        addMessage("bot", data.reply);
+        statusText.textContent = `Intent: ${data.intent} | State: ${data.state}`;
+      } catch (error) {
+        addMessage("bot", "Sorry, the chatbot service is not responding.");
+        statusText.textContent = "Connection error";
+      } finally {
+        button.disabled = false;
+        input.focus();
+      }
+    });
+
+    function addMessage(sender, text) {
+      const bubble = document.createElement("div");
+      bubble.className = `message ${sender}`;
+      bubble.textContent = text;
+      messages.appendChild(bubble);
+      messages.scrollTop = messages.scrollHeight;
+    }
+  </script>
+</body>
+</html>

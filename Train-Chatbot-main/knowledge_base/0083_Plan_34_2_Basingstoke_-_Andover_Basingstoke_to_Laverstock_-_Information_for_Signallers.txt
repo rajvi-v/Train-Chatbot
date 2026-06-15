@@ -1,0 +1,8 @@
+Plan 34.2 Basingstoke - Andover Basingstoke to Laverstock - Information for Signallers
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Basingstoke - Andover Basingstoke to Laverstock
+Blockage type: One line blocked (in either direction)
+Audience: signaller
+
+Plan 34.2 Basingstoke - Andover Basingstoke to Laverstock. Category: line blockage. Location: Basingstoke - Andover Basingstoke to Laverstock. Blockage type: One line blocked (in either direction). Audience: signaller. Recommended action (signaller_info): If 1Lxx all stations to Waterloo Up service trapped after Laverstock Junction terminate Andover and run back to Salisbury. If 1Lxx WoE to Waterloo run back via Romsey to Waterloo (If crew knowledge allows) if no crew knowledge of route return to Salisbury. Pilot drivers may be required Salisbury - Southampton Central or Southampton Central to Basingstoke.

@@ -1,0 +1,8 @@
+Plan 22.1 Haslemere - Petersfield Portsmouth Direct - Passenger Information
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Haslemere - Petersfield Portsmouth Direct
+Blockage type: Both lines blocked
+Audience: passenger
+
+Plan 22.1 Haslemere - Petersfield Portsmouth Direct. Category: line blockage. Location: Haslemere - Petersfield Portsmouth Direct. Blockage type: Both lines blocked. Audience: passenger. Recommended action (passenger_info): Local buses. Passengers from Liss to Petersfield or Alton bus 38 (5 buses 1 st @ 0912 last 1712, journey time 20 minutes to Petersfield and 40 minutes to Alton). Passengers from Liphook to Haslemere bus 13 (5 buses 1 st @ 1052 last 1840, 15 minutes). Passengers from Liss to Liphook and return No direct bus service.

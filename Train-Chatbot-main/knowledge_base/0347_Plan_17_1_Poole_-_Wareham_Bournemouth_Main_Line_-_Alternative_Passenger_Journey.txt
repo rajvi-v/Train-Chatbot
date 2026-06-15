@@ -1,0 +1,8 @@
+Plan 17.1 Poole - Wareham Bournemouth Main Line - Alternative Passenger Journey
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Poole - Wareham Bournemouth Main Line
+Blockage type: One or both lines blocked
+Audience: passenger
+
+Plan 17.1 Poole - Wareham Bournemouth Main Line. Category: line blockage. Location: Poole - Wareham Bournemouth Main Line. Blockage type: One or both lines blocked. Audience: passenger. Recommended action (alternative_passenger_journey): If stock available, shuttle service between Wareham and Weymouth. Fast bus service between Bournemouth and Wareham. (Note: if no train service Wareham - Weymouth, bus to run Bournemouth - Weymouth.) Slow bus service between Poole and Wareham or Poole to Weymouth.

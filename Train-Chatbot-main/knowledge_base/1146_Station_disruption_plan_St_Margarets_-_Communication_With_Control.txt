@@ -1,0 +1,8 @@
+Station disruption plan: St Margarets - Communication With Control
+Source: RM Metro/Station Disruption Plan - St Margarets  Issue - April 2018.docx
+Category: station_disruption
+Location: St Margarets
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for St Margarets. Category: station disruption. Location: St Margarets. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

@@ -1,0 +1,8 @@
+Plan 17.1 Poole - Wareham Bournemouth Main Line - Additional Information for Station Staff
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Poole - Wareham Bournemouth Main Line
+Blockage type: One or both lines blocked
+Audience: station_staff
+
+Plan 17.1 Poole - Wareham Bournemouth Main Line. Category: line blockage. Location: Poole - Wareham Bournemouth Main Line. Blockage type: One or both lines blocked. Audience: station_staff. Recommended action (station_staff_info): Shuttle service Weymouth to Wareham (or Wareham to Dorchester South if Wareham not available). Train Shuttle service 1Wxx Wareham to Weymouth (or Wool to Weymouth if Wareham not available) . Fast bus service between Bournemouth and Wareham. (Note: if no train service Wareham - Weymouth, bus to run Bournemouth, Wareham (Wool. if shuttle from Wool), Dorchester and Weymouth.) Slow bus service between Poole and Wareham/Wool or Poole to Weymouth.

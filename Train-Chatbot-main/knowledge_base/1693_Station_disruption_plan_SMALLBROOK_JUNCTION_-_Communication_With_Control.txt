@@ -1,0 +1,8 @@
+Station disruption plan: SMALLBROOK JUNCTION - Communication With Control
+Source: RM South/Station Disruption Plan - Smallbrook Jct Issue  2 - January 2021.docx
+Category: station_disruption
+Location: SMALLBROOK JUNCTION
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for SMALLBROOK JUNCTION. Category: station disruption. Location: SMALLBROOK JUNCTION. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

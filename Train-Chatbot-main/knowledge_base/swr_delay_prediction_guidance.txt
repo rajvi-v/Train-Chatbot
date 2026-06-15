@@ -1,0 +1,5 @@
+Passenger guidance for SWR delay arrival prediction.
+
+If a train from Weymouth to London Waterloo is delayed at an intermediate station, the passenger should tell the chatbot which station the train is currently at, how many minutes of delay were announced, and the destination. Example: "I am on a Weymouth to London Waterloo train at Southampton Central, delayed by 10 minutes."
+
+The model predicts the final destination delay and arrival time from historic operational train-running records. It should be treated as an estimate, not an official real-time railway control decision. Live railway announcements and official station displays remain the authoritative source.

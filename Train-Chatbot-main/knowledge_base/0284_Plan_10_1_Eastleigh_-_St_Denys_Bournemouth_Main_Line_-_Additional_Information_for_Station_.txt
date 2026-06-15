@@ -1,0 +1,8 @@
+Plan 10.1 Eastleigh - St. Denys Bournemouth Main Line - Additional Information for Station Staff
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Eastleigh - St. Denys Bournemouth Main Line
+Blockage type: All lines blocked Status: (Allbrook to Eastleigh South Junction available)
+Audience: station_staff
+
+Plan 10.1 Eastleigh - St. Denys Bournemouth Main Line. Category: line blockage. Location: Eastleigh - St. Denys Bournemouth Main Line. Blockage type: All lines blocked Status: (Allbrook to Eastleigh South Junction available). Audience: station_staff. Recommended action (station_staff_info): Passenger Ticket acceptance on Southern, Southampton Central to/from Havant and Clapham Junction SWR Bus Replacement fast bus & all stations Southampton Central to Eastleigh and return.

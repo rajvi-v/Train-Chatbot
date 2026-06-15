@@ -1,0 +1,8 @@
+Plan 11.2 St. Denys - Southampton Bournemouth Main Line - Passenger Information
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: St. Denys - Southampton Bournemouth Main Line
+Blockage type: One line available through Southampton Tunnel Bi-directional signalling available
+Audience: passenger
+
+Plan 11.2 St. Denys - Southampton Bournemouth Main Line. Category: line blockage. Location: St. Denys - Southampton Bournemouth Main Line. Blockage type: One line available through Southampton Tunnel Bi-directional signalling available. Audience: passenger. Recommended action (passenger_info): Local buses. 406 Bursledon, Hamble, Netley, Woolston, Sholing, Bitterne. Mon dep 1055. Tue - Fri 0855 and 1530 9 Southampton, Woolston, Sholing, Bitterne (every 30 minutes) 6 Sholing to Netley, Hamble and Bursledon or Sholing to Southampton, Woolston (every 30 minutes) X4,X5 Fareham to Bursledon, Sholing and Woolston X4/X5 both every 30 minutes. Bus 2 Southampton to Eastleigh every 15 minutes St. Denys ( 9 minutes), Swaythling 18 minutes and Eastleigh 36 minutes. Brockenhurst to Southampton Bus 6 @ 0645,0856,1008 then Hourly until 1408,1553,1751 calling at Ashurst (18 minutes) Totton (40 minutes) Redbridge (45 minutes) Millbrook (48 minutes) Southampton Central (55 minutes) Southampton Central Bus 6 @ 0905,1025 then Hourly to 1725,1854 Millbrook (10 minutes) Redbridge (12 minutes) Totton (17 minutes) Ashurst (35 Minutes) Brockenhurst (50 minutes) Beaulieu Road No Bus Totton to Southampton Central via Redbridge & Millbrook and 6,8,11,12,X7, X7R every 5 minutes Redbridge (5 minutes) Millbrook (8 minutes) Southampton Central (15 minutes).

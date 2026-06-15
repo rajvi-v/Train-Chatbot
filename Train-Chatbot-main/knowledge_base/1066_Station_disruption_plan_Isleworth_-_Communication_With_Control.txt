@@ -1,0 +1,8 @@
+Station disruption plan: Isleworth - Communication With Control
+Source: RM Metro/Station Disruption Plan - Isleworth  Issue - April 2018.docx
+Category: station_disruption
+Location: Isleworth
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Isleworth. Category: station disruption. Location: Isleworth. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

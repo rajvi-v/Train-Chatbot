@@ -1,0 +1,17 @@
+Station aliases and CRS codes for the SWR Task 2 corridor.
+
+WEY: Weymouth.
+WAT: London Waterloo, Waterloo, Waterloo London.
+SOU: Southampton Central, Southampton.
+SOA: Southampton Airport Parkway, Southampton Airport.
+BMH: Bournemouth.
+BCU: Brockenhurst.
+POO: Poole.
+HAM: Hamworthy.
+WRM: Wareham.
+DCH: Dorchester South, Dorchester.
+WIN: Winchester.
+WOK: Woking.
+CLJ: Clapham Junction.
+
+The chatbot accepts common station names and CRS codes. If a station name is ambiguous, it should ask the passenger to confirm the current station.

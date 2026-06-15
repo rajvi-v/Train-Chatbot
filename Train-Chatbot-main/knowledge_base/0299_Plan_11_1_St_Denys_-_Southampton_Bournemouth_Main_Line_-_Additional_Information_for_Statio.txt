@@ -1,0 +1,8 @@
+Plan 11.1 St. Denys - Southampton Bournemouth Main Line - Additional Information for Station Staff
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: St. Denys - Southampton Bournemouth Main Line
+Blockage type: All lines blocked or both lines Status: blocked in one direction (No access to Southampton station and no access to Northam Depot)
+Audience: station_staff
+
+Plan 11.1 St. Denys - Southampton Bournemouth Main Line. Category: line blockage. Location: St. Denys - Southampton Bournemouth Main Line. Blockage type: All lines blocked or both lines Status: blocked in one direction (No access to Southampton station and no access to Northam Depot). Audience: station_staff. Recommended action (station_staff_info): SWR bus replacement, Fast Bus Fareham to Southampton Central, Slow bus all stations. Fast and Slow Bus Eastleigh to Southampton Central and all stations to Brockenhurst Fast Service Eastleigh, Southampton Airport to Bournemouth.

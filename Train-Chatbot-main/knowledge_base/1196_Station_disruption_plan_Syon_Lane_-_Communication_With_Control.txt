@@ -1,0 +1,8 @@
+Station disruption plan: Syon Lane - Communication With Control
+Source: RM Metro/Station Disruption Plan - Syon Lane  Issue - April 2018.docx
+Category: station_disruption
+Location: Syon Lane
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Syon Lane. Category: station disruption. Location: Syon Lane. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

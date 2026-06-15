@@ -1,0 +1,8 @@
+Station disruption plan: Farnborough - Communication With Control
+Source: RM South/Station Disruption Plan - Farnborough Issue 2 - February 2021.docx
+Category: station_disruption
+Location: Farnborough
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Farnborough. Category: station disruption. Location: Farnborough. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

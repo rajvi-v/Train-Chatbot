@@ -1,0 +1,8 @@
+Plan 34.1 Basingstoke - Andover Basingstoke to Laverstock - Alternative Passenger Journey
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Basingstoke - Andover Basingstoke to Laverstock
+Blockage type: Both lines blocked
+Audience: passenger
+
+Plan 34.1 Basingstoke - Andover Basingstoke to Laverstock. Category: line blockage. Location: Basingstoke - Andover Basingstoke to Laverstock. Blockage type: Both lines blocked. Audience: passenger. Recommended action (alternative_passenger_journey): If possible, shuttle service between Salisbury and Andover. SWR Fast Bus service between Basingstoke and Andover and Salisbury. SWR Slow Bus Service all stations Basingstoke to Salisbury. Local buses.

@@ -1,0 +1,8 @@
+Plan 7.2 Micheldever - Winchester Bournemouth Main Line - Passenger Information
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Micheldever - Winchester Bournemouth Main Line
+Blockage type: One line blocked (in either direction)
+Audience: passenger
+
+Plan 7.2 Micheldever - Winchester Bournemouth Main Line. Category: line blockage. Location: Micheldever - Winchester Bournemouth Main Line. Blockage type: One line blocked (in either direction). Audience: passenger. Recommended action (passenger_info): Local buses. Micheldever Station to Overton station 80M 4 buses 30 Minutes.

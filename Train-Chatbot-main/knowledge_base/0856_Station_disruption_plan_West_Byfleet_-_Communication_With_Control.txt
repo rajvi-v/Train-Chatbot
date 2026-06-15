@@ -1,0 +1,8 @@
+Station disruption plan: West Byfleet - Communication With Control
+Source: RM Central/Station Disruption Plan - West Byfleet Issue 1 - April 2018.docx
+Category: station_disruption
+Location: West Byfleet
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for West Byfleet. Category: station disruption. Location: West Byfleet. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

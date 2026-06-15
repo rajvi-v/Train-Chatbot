@@ -1,0 +1,8 @@
+Plan 1.1 Surbiton - Hampton Court Junction Bournemouth Main Line - Additional Information for Station Staff
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Surbiton - Hampton Court Junction Bournemouth Main Line
+Blockage type: DMSL blocked
+Audience: station_staff
+
+Plan 1.1 Surbiton - Hampton Court Junction Bournemouth Main Line. Category: line blockage. Location: Surbiton - Hampton Court Junction Bournemouth Main Line. Blockage type: DMSL blocked. Audience: station_staff. Recommended action (station_staff_info): SWR Bus Replacement Service all stations Surbiton to Effingham Junction.

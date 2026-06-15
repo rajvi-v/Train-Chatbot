@@ -1,0 +1,8 @@
+Station disruption plan: Shepperton - Communication With Control
+Source: RM Central/Station Disruption Plan - Shepperton  Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Shepperton
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Shepperton. Category: station disruption. Location: Shepperton. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

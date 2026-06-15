@@ -1,0 +1,8 @@
+Plan 15.1 Brockenhurst - Bournemouth Bournemouth Main Line - Additional Information for Station Staff
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Brockenhurst - Bournemouth Bournemouth Main Line
+Blockage type: Both lines blocked
+Audience: station_staff
+
+Plan 15.1 Brockenhurst - Bournemouth Bournemouth Main Line. Category: line blockage. Location: Brockenhurst - Bournemouth Bournemouth Main Line. Blockage type: Both lines blocked. Audience: station_staff. Recommended action (station_staff_info): Passengers for Bournemouth and beyond should change at Southampton Airport Parkway for Fast Bus to Bournemouth. Passengers for Brockenhurst to Sway, New Milton, Hinton Admiral Christchurch, Pokesdown and Bournemouth change at Brockenhurst for all stations Bus from Brockenhurst to Bournemouth.

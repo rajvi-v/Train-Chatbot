@@ -1,0 +1,8 @@
+Plan 30.1 Aldershot North Junction - Aldershot Alton Line - Principles of Service Alteration
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Aldershot North Junction - Aldershot Alton Line
+Blockage type: One or both lines blocked
+Audience: service_controller
+
+Plan 30.1 Aldershot North Junction - Aldershot Alton Line. Category: line blockage. Location: Aldershot North Junction - Aldershot Alton Line. Blockage type: One or both lines blocked. Audience: service_controller. Recommended action (service_alteration): 1Axx xx.23/53 Waterloo - Alton & return services cancelled . 2Nxx xx00/30 Aldershot to Ascot & return services cancelled . 2Jxx xx04/34 Farnham to Guildford & return services cancelled . GWR: 2Vxx xx34 Redhill - Reading and 2Oxx xx04 Reading to Redhill SSO Wanborough . Hourly Shuttle service 1Zxx Aldershot to Alton and return.

@@ -1,0 +1,8 @@
+Station disruption plan: Sunningdale - Communication With Control
+Source: RM Metro/Station Disruption Plan - Sunningdale  Issue - April 2018.docx
+Category: station_disruption
+Location: Sunningdale
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Sunningdale. Category: station disruption. Location: Sunningdale. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

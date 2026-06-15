@@ -1,0 +1,8 @@
+Plan 1.1 Surbiton - Hampton Court Junction Bournemouth Main Line - Principles of Service Alteration
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Surbiton - Hampton Court Junction Bournemouth Main Line
+Blockage type: DMSL blocked
+Audience: service_controller
+
+Plan 1.1 Surbiton - Hampton Court Junction Bournemouth Main Line. Category: line blockage. Location: Surbiton - Hampton Court Junction Bournemouth Main Line. Blockage type: DMSL blocked. Audience: service_controller. Recommended action (service_alteration): If no access to New Line: 2Gxx Guildford (C) services diverted via Woking (call for crew purposes). 1Gxx Portsmouth via Cobham divert via Woking.

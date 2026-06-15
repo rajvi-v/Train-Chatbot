@@ -1,0 +1,8 @@
+Plan 4.3 Woking Junction - Pirbright Junction Bournemouth Main Line - Principles of Service Alteration
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Woking Junction - Pirbright Junction Bournemouth Main Line
+Blockage type: All lines blocked
+Audience: service_controller
+
+Plan 4.3 Woking Junction - Pirbright Junction Bournemouth Main Line. Category: line blockage. Location: Woking Junction - Pirbright Junction Bournemouth Main Line. Blockage type: All lines blocked. Audience: service_controller. Recommended action (service_alteration): WoE services terminate/start Basingstoke . 1Axx Waterloo - Alton services diverted via Guildford call all stations vice 2Jxx. 1Txx xx.09 Waterloo - Portsmouth Harbour (EH) & return services start/terminate Basingstoke . 1Bxx xx.35 Waterloo - Poole & return services Divert via Havant . 1Wxx xx.05 Waterloo - Weymouth & return services start/terminate Southampton . 2Lxx xx.12/42 Waterloo - Basingstoke stopping services shuttle Basingstoke to Farnborough . SWR bus services between railheads. Fast buses between Woking & Basingstoke. Possibility of bus service Alton - Winchester (to relieve Woking - Basingstoke buses). Capacity at Basingstoke for terminating trains may be a problem. Consider running 1Lxx Salisbury to Waterloo to Reading. 2Jxx Farnham to Guildford and return Cancelled (withdrawn to provide Pilot drivers for 1Axx via Guildford) SSO Wanborough and Ash. Note: If a 1Lxx service is trapped London side of the block then terminate at Woking and run ECS to point of obstruction or to return to London if crew willing. [The above was added in response to feedback to Plan 5.3 (03/03/21)]

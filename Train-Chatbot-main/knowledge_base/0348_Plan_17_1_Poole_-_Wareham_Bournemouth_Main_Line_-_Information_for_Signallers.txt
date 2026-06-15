@@ -1,0 +1,8 @@
+Plan 17.1 Poole - Wareham Bournemouth Main Line - Information for Signallers
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Poole - Wareham Bournemouth Main Line
+Blockage type: One or both lines blocked
+Audience: signaller
+
+Plan 17.1 Poole - Wareham Bournemouth Main Line. Category: line blockage. Location: Poole - Wareham Bournemouth Main Line. Blockage type: One or both lines blocked. Audience: signaller. Recommended action (signaller_info): 1Wxx xx.05 Waterloo - Weymouth & return services run Waterloo to Bournemouth and Wareham to Weymouth . 1Wxx xx.35 Waterloo - Weymouth terminate/start Poole . If stock available, shuttle service between Wareham and Weymouth (or Dorchester South to Weymouth).

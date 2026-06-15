@@ -1,0 +1,8 @@
+Station disruption plan: HILSEA - Communication With Control
+Source: RM South/Station Disruption Plan - Hilsea Issue 1 - April 2018.docx
+Category: station_disruption
+Location: HILSEA
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for HILSEA. Category: station disruption. Location: HILSEA. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

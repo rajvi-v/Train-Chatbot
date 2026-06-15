@@ -1,0 +1,8 @@
+Plan 28.1 Pirbright Junction - Ash Vale Alton Line - Information for Signallers
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Pirbright Junction - Ash Vale Alton Line
+Blockage type: Both lines blocked
+Audience: signaller
+
+Plan 28.1 Pirbright Junction - Ash Vale Alton Line. Category: line blockage. Location: Pirbright Junction - Ash Vale Alton Line. Blockage type: Both lines blocked. Audience: signaller. Recommended action (signaller_info): 2Jxx cancel and send to Farnham Shed or hold at Guildford. 1Axx run via Guildford and call all stations, may require Pilot crew.

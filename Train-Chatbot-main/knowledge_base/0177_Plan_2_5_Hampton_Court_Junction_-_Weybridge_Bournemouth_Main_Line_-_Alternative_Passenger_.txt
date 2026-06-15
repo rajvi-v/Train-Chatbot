@@ -1,0 +1,8 @@
+Plan 2.5 Hampton Court Junction - Weybridge Bournemouth Main Line - Alternative Passenger Journey
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Hampton Court Junction - Weybridge Bournemouth Main Line
+Blockage type: DMSL & DMFL blocked or Status: UMSL & UMFL blocked
+Audience: passenger
+
+Plan 2.5 Hampton Court Junction - Weybridge Bournemouth Main Line. Category: line blockage. Location: Hampton Court Junction - Weybridge Bournemouth Main Line. Blockage type: DMSL & DMFL blocked or Status: UMSL & UMFL blocked. Audience: passenger. Recommended action (alternative_passenger_journey): SWR bus replacement. Local buses.

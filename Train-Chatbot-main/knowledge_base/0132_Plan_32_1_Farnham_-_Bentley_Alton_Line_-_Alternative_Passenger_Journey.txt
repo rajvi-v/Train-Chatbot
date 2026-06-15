@@ -1,0 +1,8 @@
+Plan 32.1 Farnham - Bentley Alton Line - Alternative Passenger Journey
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Farnham - Bentley Alton Line
+Blockage type: Line blocked
+Audience: passenger
+
+Plan 32.1 Farnham - Bentley Alton Line. Category: line blockage. Location: Farnham - Bentley Alton Line. Blockage type: Line blocked. Audience: passenger. Recommended action (alternative_passenger_journey): SWR Bus Replacement Farnham to Alton Fast bus and Mini bus all stations to serve Bentley Local buses.

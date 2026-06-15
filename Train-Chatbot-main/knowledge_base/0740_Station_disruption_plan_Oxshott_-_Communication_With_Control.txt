@@ -1,0 +1,8 @@
+Station disruption plan: Oxshott - Communication With Control
+Source: RM Central/Station Disruption Plan - Oxshott Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Oxshott
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Oxshott. Category: station disruption. Location: Oxshott. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

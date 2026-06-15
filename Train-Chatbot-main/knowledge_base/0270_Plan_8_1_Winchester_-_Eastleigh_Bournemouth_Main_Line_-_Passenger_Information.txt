@@ -1,0 +1,8 @@
+Plan 8.1 Winchester - Eastleigh Bournemouth Main Line - Passenger Information
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Winchester - Eastleigh Bournemouth Main Line
+Blockage type: Both lines blocked
+Audience: passenger
+
+Plan 8.1 Winchester - Eastleigh Bournemouth Main Line. Category: line blockage. Location: Winchester - Eastleigh Bournemouth Main Line. Blockage type: Both lines blocked. Audience: passenger. Recommended action (passenger_info): Local buses. From Winchester to Shawford E2.3 times a day 25 minutes. Winchester to Romsey bus 66 every 30 minutes Journey 35 minutes. Winchester to Chandlers Ford and Southampton 1Bluestar every 15-20 minutes to Chandlers Ford 20 minutes, Southampton 40 minutes. Eastleigh to Winchester E1,E2 journey 40-50 minutes.

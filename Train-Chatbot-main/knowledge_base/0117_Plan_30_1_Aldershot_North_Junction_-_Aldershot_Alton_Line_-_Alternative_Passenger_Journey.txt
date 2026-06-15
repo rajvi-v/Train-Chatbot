@@ -1,0 +1,8 @@
+Plan 30.1 Aldershot North Junction - Aldershot Alton Line - Alternative Passenger Journey
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Aldershot North Junction - Aldershot Alton Line
+Blockage type: One or both lines blocked
+Audience: passenger
+
+Plan 30.1 Aldershot North Junction - Aldershot Alton Line. Category: line blockage. Location: Aldershot North Junction - Aldershot Alton Line. Blockage type: One or both lines blocked. Audience: passenger. Recommended action (alternative_passenger_journey): SWR bus replacement Woking to Aldershot and Ascot to Guildford via Aldershot. GWR SSO Wanborough.

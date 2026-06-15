@@ -1,0 +1,8 @@
+Station disruption plan: Andover , Station Approach, Andover SP10 3HN - Communication With Control
+Source: RM West/Station Disruption Plan - Andover  Issue 2 - January 2021.docx
+Category: station_disruption
+Location: Andover , Station Approach, Andover SP10 3HN
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Andover , Station Approach, Andover SP10 3HN. Category: station disruption. Location: Andover , Station Approach, Andover SP10 3HN. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

@@ -1,0 +1,8 @@
+Plan 29.2 Ash Vale - Aldershot North Junction Alton Line - Alternative Passenger Journey
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Ash Vale - Aldershot North Junction Alton Line
+Blockage type: One line blocked (in either direction)
+Audience: passenger
+
+Plan 29.2 Ash Vale - Aldershot North Junction Alton Line. Category: line blockage. Location: Ash Vale - Aldershot North Junction Alton Line. Blockage type: One line blocked (in either direction). Audience: passenger. Recommended action (alternative_passenger_journey): SWR Bus replacement Aldershot to Ascot and Brookwood to Aldershot. 1Axx Alton to Waterloo and return via Guildford and call Guildford/Wanborough and Ash. (in Blocked direction).

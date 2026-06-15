@@ -1,0 +1,8 @@
+Plan 5.2 Pirbright Junction - Basingstoke Bournemouth Main Line - Principles of Service Alteration
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Pirbright Junction - Basingstoke Bournemouth Main Line
+Blockage type: DMSL or UMSL blocked
+Audience: service_controller
+
+Plan 5.2 Pirbright Junction - Basingstoke Bournemouth Main Line. Category: line blockage. Location: Pirbright Junction - Basingstoke Bournemouth Main Line. Blockage type: DMSL or UMSL blocked. Audience: service_controller. Recommended action (service_alteration): Trains diverted via Fast lines over shortest distance. Consideration must be given to the withdrawal of station stops in order to prevent delay to Fast trains. Passengers from stations not served either circulate via adjacent stations, or by bus service, if instituted.

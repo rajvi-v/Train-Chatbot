@@ -1,0 +1,8 @@
+Plan 32.1 Farnham - Bentley Alton Line - Information for Signallers
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Farnham - Bentley Alton Line
+Blockage type: Line blocked
+Audience: signaller
+
+Plan 32.1 Farnham - Bentley Alton Line. Category: line blockage. Location: Farnham - Bentley Alton Line. Blockage type: Line blocked. Audience: signaller. Recommended action (signaller_info): 1Axx xx23/53 Waterloo to Alton terminate Farnham and Shunt to Shed for return Working 1Axx xx14/44 Alton to Waterloo depart xx28/58.

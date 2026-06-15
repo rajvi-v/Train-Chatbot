@@ -1,0 +1,8 @@
+Station disruption plan: Farnham - Communication With Control
+Source: RM Central/Station Disruption Plan - Farnham Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Farnham
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Farnham. Category: station disruption. Location: Farnham. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

@@ -1,0 +1,8 @@
+Plan 15.1 Brockenhurst - Bournemouth Bournemouth Main Line - Passenger Information
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Brockenhurst - Bournemouth Bournemouth Main Line
+Blockage type: Both lines blocked
+Audience: passenger
+
+Plan 15.1 Brockenhurst - Bournemouth Bournemouth Main Line. Category: line blockage. Location: Brockenhurst - Bournemouth Bournemouth Main Line. Blockage type: Both lines blocked. Audience: passenger. Recommended action (passenger_info): Local buses. Bournemouth to Pokesdown Bus 2 Every 15 minutes, Journey 15 minutes. Bournemouth for Christchurch and New Milton x1 and x2 Both hourly 35 minutes and 80 minutes. Bournemouth for Christchurch Bus 1 every 7-15 minutes journey 35 minutes Hinton Admiral for Christchurch, New Milton and Bournemouth buses x1 and x2 both hourly, 10 minute walk to bus stop. Christchurch 28 minutes, Bournemouth 65 minutes, New Milton 17 minutes Sway to New Milton C32/C33 infrequent 4 buses 35 minutes (must book) small bus Brockenhurst no bus routes towards Bournemouth (summer tour bus to New Milton).

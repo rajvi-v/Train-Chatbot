@@ -1,0 +1,8 @@
+Station disruption plan: Camberley - Communication With Control
+Source: RM Central/Station Disruption Plan - Camberley  Issue - April 2018.docx
+Category: station_disruption
+Location: Camberley
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Camberley. Category: station disruption. Location: Camberley. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

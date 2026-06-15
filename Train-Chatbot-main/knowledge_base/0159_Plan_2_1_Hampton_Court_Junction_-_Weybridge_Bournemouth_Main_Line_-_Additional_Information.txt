@@ -1,0 +1,8 @@
+Plan 2.1 Hampton Court Junction - Weybridge Bournemouth Main Line - Additional Information for Station Staff
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Hampton Court Junction - Weybridge Bournemouth Main Line
+Blockage type: DMFL blocked
+Audience: station_staff
+
+Plan 2.1 Hampton Court Junction - Weybridge Bournemouth Main Line. Category: line blockage. Location: Hampton Court Junction - Weybridge Bournemouth Main Line. Blockage type: DMFL blocked. Audience: station_staff. Recommended action (station_staff_info): Non-stop trains will pass through Down Slow/Hampton Court platforms. 2Fxx xx.20/50 Waterloo to Woking not to call Esher, Hersham, Walton on Thames, passengers to circulate via Surbiton and Weybridge.

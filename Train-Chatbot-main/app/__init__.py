@@ -1,0 +1,1 @@
+"""Railway chatbot FastAPI application."""

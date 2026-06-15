@@ -1,0 +1,8 @@
+Plan 34.2 Basingstoke - Andover Basingstoke to Laverstock - Passenger Information
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Basingstoke - Andover Basingstoke to Laverstock
+Blockage type: One line blocked (in either direction)
+Audience: passenger
+
+Plan 34.2 Basingstoke - Andover Basingstoke to Laverstock. Category: line blockage. Location: Basingstoke - Andover Basingstoke to Laverstock. Blockage type: One line blocked (in either direction). Audience: passenger. Recommended action (passenger_info): Local buses. Passengers at Overton for Basingstoke, Whitchurch and Andover 15 minute walk then 76 bus (Overton to Whitchurch 10 minutes, Overton to Andover 26 minutes) Passengers at Basingstoke (bus top X) for Overton, Whitchurch and Andover (1 st bus 0657 then hourly, Journey 33 minutes to Overton, 55 minutes for Whitchurch and 63 minutes for Andover).

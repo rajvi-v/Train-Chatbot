@@ -1,0 +1,8 @@
+Station disruption plan: Queenstown Road - Communication With Control
+Source: RM Metro/Station Disruption Plan - Queenstown Road  Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Queenstown Road
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Queenstown Road. Category: station disruption. Location: Queenstown Road. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

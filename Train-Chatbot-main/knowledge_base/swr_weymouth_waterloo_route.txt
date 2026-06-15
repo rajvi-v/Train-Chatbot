@@ -1,0 +1,5 @@
+South Western Railway Weymouth to London Waterloo route context.
+
+The coursework Task 2 route focuses on SWR services between Weymouth (CRS WEY) and London Waterloo (CRS WAT). Common Weymouth to Waterloo calling points include Dorchester South (DCH), Wareham (WRM), Hamworthy (HAM), Poole (POO), Bournemouth (BMH), Brockenhurst (BCU), Southampton Central (SOU), Southampton Airport Parkway (SOA), Winchester (WIN), Woking (WOK), Clapham Junction (CLJ), and London Waterloo (WAT). The reverse Waterloo to Weymouth direction uses the same corridor in the opposite direction.
+
+For arrival prediction, the chatbot needs the current station, the currently announced delay in minutes, and the destination. A train ID or RID improves accuracy because the model can look up the scheduled remaining journey time for that service.

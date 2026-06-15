@@ -1,0 +1,8 @@
+Plan 20.1 Woking - Guildford Portsmouth Direct - Alternative Passenger Journey
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Woking - Guildford Portsmouth Direct
+Blockage type: Both lines blocked
+Audience: passenger
+
+Plan 20.1 Woking - Guildford Portsmouth Direct. Category: line blockage. Location: Woking - Guildford Portsmouth Direct. Blockage type: Both lines blocked. Audience: passenger. Recommended action (alternative_passenger_journey): SWR bus replacement Local buses Taxi for Worplesdon

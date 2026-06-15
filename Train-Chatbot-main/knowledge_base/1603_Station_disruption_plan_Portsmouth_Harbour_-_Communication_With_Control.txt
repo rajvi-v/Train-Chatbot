@@ -1,0 +1,8 @@
+Station disruption plan: Portsmouth Harbour - Communication With Control
+Source: RM South/Station Disruption Plan - Portsmouth Harbour Issue  2 - January 2021.docx
+Category: station_disruption
+Location: Portsmouth Harbour
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Portsmouth Harbour. Category: station disruption. Location: Portsmouth Harbour. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

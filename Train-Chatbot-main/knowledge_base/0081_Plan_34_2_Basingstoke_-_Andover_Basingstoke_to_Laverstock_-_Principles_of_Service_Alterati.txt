@@ -1,0 +1,8 @@
+Plan 34.2 Basingstoke - Andover Basingstoke to Laverstock - Principles of Service Alteration
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Basingstoke - Andover Basingstoke to Laverstock
+Blockage type: One line blocked (in either direction)
+Audience: service_controller
+
+Plan 34.2 Basingstoke - Andover Basingstoke to Laverstock. Category: line blockage. Location: Basingstoke - Andover Basingstoke to Laverstock. Blockage type: One line blocked (in either direction). Audience: service_controller. Recommended action (service_alteration): Off Peak 1Lxx xx.20 Waterloo - WoE & return services diverted via Southampton in blocked direction . Trains to call additionally at Whitchurch and Overton in open direction (Check Crew route knowledge – if Crew do not sign Eastleigh to Basingstoke then terminate at Southampton on Up and return to Salisbury and Basingstoke on Down and shunt to Barton Mill) 1Lxx xx.47 Salisbury to Basingstoke and xx.38 return Terminate/Start at Andover. If service continues West of Salisbury start RT if crew and stock available Peak 1Lxx xx.20 Waterloo - WoE & return services diverted via Southampton in blocked direction . Trains to call all stations Basingstoke to Salisbury in open direction (Check Crew route knowledge – if Crew do not sign Eastleigh to Basingstoke then terminate at Southampton on Up and return to Salisbury and Basingstoke on Down and shunt to Barton Mill) 1Lxx xx,47 Salisbury to Waterloo Terminate at Andover 1Lxx xx.50 Waterloo to WoE (Peak) Start at Andover. Any trapped services divert via Southampton (Check Crew route knowledge) and terminate at Salisbury. If possible restart portions West of Salisbury if stock and crew available and run RT from Salisbury

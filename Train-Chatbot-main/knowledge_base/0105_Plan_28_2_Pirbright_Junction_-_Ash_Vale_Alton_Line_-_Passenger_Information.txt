@@ -1,0 +1,8 @@
+Plan 28.2 Pirbright Junction - Ash Vale Alton Line - Passenger Information
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Pirbright Junction - Ash Vale Alton Line
+Blockage type: One line blocked (in either direction)
+Audience: passenger
+
+Plan 28.2 Pirbright Junction - Ash Vale Alton Line. Category: line blockage. Location: Pirbright Junction - Ash Vale Alton Line. Blockage type: One line blocked (in either direction). Audience: passenger. Recommended action (passenger_info): Passengers from Brookwood to travel to Woking for trains to Aldershot and Ash Vale.

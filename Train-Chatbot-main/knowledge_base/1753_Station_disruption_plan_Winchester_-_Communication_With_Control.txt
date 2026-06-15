@@ -1,0 +1,8 @@
+Station disruption plan: Winchester - Communication With Control
+Source: RM South/Station Disruption Plan - Winchester Issue 1 - March 2018.docx
+Category: station_disruption
+Location: Winchester
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Winchester. Category: station disruption. Location: Winchester. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

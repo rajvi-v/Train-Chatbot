@@ -1,0 +1,8 @@
+Station disruption plan: Kew Bridge - Communication With Control
+Source: RM Metro/Station Disruption Plan - Kew Bridge  Issue - April 2018.docx
+Category: station_disruption
+Location: Kew Bridge
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Kew Bridge. Category: station disruption. Location: Kew Bridge. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

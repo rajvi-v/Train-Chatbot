@@ -1,0 +1,8 @@
+Station disruption plan: Hampton Wick - Communication With Control
+Source: RM Central/Station Disruption Plan - Hampton Wick  Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Hampton Wick
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Hampton Wick. Category: station disruption. Location: Hampton Wick. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

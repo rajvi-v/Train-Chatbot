@@ -1,0 +1,8 @@
+Station disruption plan: Axminster - Communication With Control
+Source: RM West/Station Disruption Plan - Axminster Issue 2 - March 2021.docx
+Category: station_disruption
+Location: Axminster
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Axminster. Category: station disruption. Location: Axminster. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

@@ -1,0 +1,8 @@
+Station disruption plan: Egham - Communication With Control
+Source: RM Metro/Station Disruption Plan - Egham  Issue - April 2018.docx
+Category: station_disruption
+Location: Egham
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Egham. Category: station disruption. Location: Egham. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

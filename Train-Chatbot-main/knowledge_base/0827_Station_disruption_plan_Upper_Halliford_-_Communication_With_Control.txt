@@ -1,0 +1,8 @@
+Station disruption plan: Upper Halliford - Communication With Control
+Source: RM Central/Station Disruption Plan - Upper Halliford  Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Upper Halliford
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Upper Halliford. Category: station disruption. Location: Upper Halliford. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

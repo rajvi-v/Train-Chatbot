@@ -1,0 +1,8 @@
+Station disruption plan: Frimley - Communication With Control
+Source: RM Central/Station Disruption Plan - Frimley  Issue - April 2018.docx
+Category: station_disruption
+Location: Frimley
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Frimley. Category: station disruption. Location: Frimley. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

@@ -1,0 +1,8 @@
+Station disruption plan: Wraysbury - Communication With Control
+Source: RM Metro/Station Disruption Plan - Wraysbury  Issue - April 2018.docx
+Category: station_disruption
+Location: Wraysbury
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Wraysbury. Category: station disruption. Location: Wraysbury. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

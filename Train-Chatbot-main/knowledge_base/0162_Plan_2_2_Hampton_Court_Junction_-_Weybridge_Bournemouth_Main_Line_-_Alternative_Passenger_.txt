@@ -1,0 +1,8 @@
+Plan 2.2 Hampton Court Junction - Weybridge Bournemouth Main Line - Alternative Passenger Journey
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Hampton Court Junction - Weybridge Bournemouth Main Line
+Blockage type: UMFL blocked
+Audience: passenger
+
+Plan 2.2 Hampton Court Junction - Weybridge Bournemouth Main Line. Category: line blockage. Location: Hampton Court Junction - Weybridge Bournemouth Main Line. Blockage type: UMFL blocked. Audience: passenger. Recommended action (alternative_passenger_journey): 2Fxx xx.03/33 will not to call, Walton on Thames Hersham and Esher follow 2Pxx from Byfleet, passenger s to circulate via Surbiton. 1Axx xx.14/44 follow 1Wxx xx20 Weymouth or 1Bxx xx.41 Poole ex Byfleet.

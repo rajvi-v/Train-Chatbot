@@ -1,0 +1,8 @@
+Plan 16.1 Bournemouth - Poole Bournemouth Main Line - Alternative Passenger Journey
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Bournemouth - Poole Bournemouth Main Line
+Blockage type: One or both lines blocked
+Audience: passenger
+
+Plan 16.1 Bournemouth - Poole Bournemouth Main Line. Category: line blockage. Location: Bournemouth - Poole Bournemouth Main Line. Blockage type: One or both lines blocked. Audience: passenger. Recommended action (alternative_passenger_journey): All Down trains terminate at Bournemouth. Shuttle service between Poole and Weymouth. (if Poole not available Shuttle Wareham to Weymouth). Fast and slow Bus service between Bournemouth and Poole. Local buses.

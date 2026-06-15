@@ -1,0 +1,8 @@
+Station disruption plan: Longcross - Communication With Control
+Source: RM Metro/Station Disruption Plan - Longcross  Issue - April 2018.docx
+Category: station_disruption
+Location: Longcross
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Longcross. Category: station disruption. Location: Longcross. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

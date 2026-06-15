@@ -1,0 +1,8 @@
+Plan 21.1 Guildford - Haslemere Portsmouth Direct - Alternative Passenger Journey
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Guildford - Haslemere Portsmouth Direct
+Blockage type: Both lines blocked
+Audience: passenger
+
+Plan 21.1 Guildford - Haslemere Portsmouth Direct. Category: line blockage. Location: Guildford - Haslemere Portsmouth Direct. Blockage type: Both lines blocked. Audience: passenger. Recommended action (alternative_passenger_journey): Local buses SWR Bus Replacement Guildford - Haslemere all stations

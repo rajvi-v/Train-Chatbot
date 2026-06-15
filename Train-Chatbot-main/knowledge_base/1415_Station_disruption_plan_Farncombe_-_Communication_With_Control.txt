@@ -1,0 +1,8 @@
+Station disruption plan: Farncombe - Communication With Control
+Source: RM South/Station Disruption Plan - Farncombe Issue 2-2020.docx
+Category: station_disruption
+Location: Farncombe
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Farncombe. Category: station disruption. Location: Farncombe. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

@@ -1,0 +1,8 @@
+Plan 8.1 Winchester - Eastleigh Bournemouth Main Line - Information for Signallers
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Winchester - Eastleigh Bournemouth Main Line
+Blockage type: Both lines blocked
+Audience: signaller
+
+Plan 8.1 Winchester - Eastleigh Bournemouth Main Line. Category: line blockage. Location: Winchester - Eastleigh Bournemouth Main Line. Blockage type: Both lines blocked. Audience: signaller. Recommended action (signaller_info): See Principles of Service Alteration.

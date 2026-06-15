@@ -1,0 +1,8 @@
+Plan 20.1 Woking - Guildford Portsmouth Direct - Passenger Information
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Woking - Guildford Portsmouth Direct
+Blockage type: Both lines blocked
+Audience: passenger
+
+Plan 20.1 Woking - Guildford Portsmouth Direct. Category: line blockage. Location: Woking - Guildford Portsmouth Direct. Blockage type: Both lines blocked. Audience: passenger. Recommended action (passenger_info): Local buses. Passengers at Guildford for Woking Buses 28,33,34,35,91,462 and 463 (frequent, Journey times vary 37 minutes to 50 minutes) Passengers at Woking for Guildford Buses 28,33,34,35,91,462 and 463 (Frequent Journey times vary 37 minutes to 50 minutes) Passengers at Worplesdon Village to Guildford Bus 28 (Hourly, journey time 18 minutes) to Woking (Hourly, Journey time 37 minutes).

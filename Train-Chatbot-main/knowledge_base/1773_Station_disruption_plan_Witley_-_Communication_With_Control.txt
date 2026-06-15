@@ -1,0 +1,8 @@
+Station disruption plan: Witley - Communication With Control
+Source: RM South/Station Disruption Plan - Witley Issue 2 2020.docx
+Category: station_disruption
+Location: Witley
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Witley. Category: station disruption. Location: Witley. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

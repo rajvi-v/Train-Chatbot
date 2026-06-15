@@ -1,0 +1,8 @@
+Plan 35.1 Andover - Laverstock North Junction Basingstoke to Laverstock - Passenger Information
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Andover - Laverstock North Junction Basingstoke to Laverstock
+Blockage type: Both lines blocked
+Audience: passenger
+
+Plan 35.1 Andover - Laverstock North Junction Basingstoke to Laverstock. Category: line blockage. Location: Andover - Laverstock North Junction Basingstoke to Laverstock. Blockage type: Both lines blocked. Audience: passenger. Recommended action (passenger_info): Local buses. Passengers at Andover for Grateley Bus 5 1 st bus 0705 5 buses last 1625 (33 minutes) Bus 77 4 buses @ 0945,1045,1310,1555 journey 10 minutes. Passengers at Andover for Salisbury ever 30 minutes journey time 84 minutes.

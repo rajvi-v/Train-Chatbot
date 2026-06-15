@@ -1,0 +1,8 @@
+Station disruption plan: Shoaling - Communication With Control
+Source: RM South/Station Disruption Plan - Sholing Issue 2 February 2021.docx
+Category: station_disruption
+Location: Shoaling
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Shoaling. Category: station disruption. Location: Shoaling. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

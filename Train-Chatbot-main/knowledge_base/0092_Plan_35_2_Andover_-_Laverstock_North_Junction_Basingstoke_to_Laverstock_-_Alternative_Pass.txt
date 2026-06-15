@@ -1,0 +1,8 @@
+Plan 35.2 Andover - Laverstock North Junction Basingstoke to Laverstock - Alternative Passenger Journey
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Andover - Laverstock North Junction Basingstoke to Laverstock
+Blockage type: One line blocked (in either direction)
+Audience: passenger
+
+Plan 35.2 Andover - Laverstock North Junction Basingstoke to Laverstock. Category: line blockage. Location: Andover - Laverstock North Junction Basingstoke to Laverstock. Blockage type: One line blocked (in either direction). Audience: passenger. Recommended action (alternative_passenger_journey): SWR Bus to run Andover to Salisbury and return. 1Lxx xx.20 Waterloo to Exeter St Davids or Return SSO Grateley in Open direction.

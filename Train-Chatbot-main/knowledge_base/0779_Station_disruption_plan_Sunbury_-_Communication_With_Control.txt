@@ -1,0 +1,8 @@
+Station disruption plan: Sunbury - Communication With Control
+Source: RM Central/Station Disruption Plan - Sunbury  Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Sunbury
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Sunbury. Category: station disruption. Location: Sunbury. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

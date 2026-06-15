@@ -1,0 +1,8 @@
+Plan 3.2 Weybridge - Woking Bournemouth Main Line - Principles of Service Alteration
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Weybridge - Woking Bournemouth Main Line
+Blockage type: UMFL blocked
+Audience: service_controller
+
+Plan 3.2 Weybridge - Woking Bournemouth Main Line. Category: line blockage. Location: Weybridge - Woking Bournemouth Main Line. Blockage type: UMFL blocked. Audience: service_controller. Recommended action (service_alteration): Trains diverted via UMSL. 2Fxx run fast from Woking to Weybridge.

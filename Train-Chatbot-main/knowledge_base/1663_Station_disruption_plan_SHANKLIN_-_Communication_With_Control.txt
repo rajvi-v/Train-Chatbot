@@ -1,0 +1,8 @@
+Station disruption plan: SHANKLIN - Communication With Control
+Source: RM South/Station Disruption Plan - Shanklin Issue  2 - January 2021.docx
+Category: station_disruption
+Location: SHANKLIN
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for SHANKLIN. Category: station disruption. Location: SHANKLIN. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

@@ -1,0 +1,8 @@
+Plan 10.3 Eastleigh - St. Denys Bournemouth Main Line - Passenger Information
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Eastleigh - St. Denys Bournemouth Main Line
+Blockage type: Down line blocked Status: ( Allbrook to Eastleigh South Junction available)
+Audience: passenger
+
+Plan 10.3 Eastleigh - St. Denys Bournemouth Main Line. Category: line blockage. Location: Eastleigh - St. Denys Bournemouth Main Line. Blockage type: Down line blocked Status: ( Allbrook to Eastleigh South Junction available). Audience: passenger. Recommended action (passenger_info): Local buses. Bus 2 Southampton to Eastleigh every 15 minutes St. Denys ( 9 minutes), Swaythling 18 minutes and Eastleigh 36 minutes a nd return. Bus U1A/C Eastleigh to Southampton Central via Southampton Airport and Swaythling, Every 15-20 minutes Eastleigh to Parkway 5 minutes, to Swaythling 10 Minutes, to Southampton Central 35 minutes.

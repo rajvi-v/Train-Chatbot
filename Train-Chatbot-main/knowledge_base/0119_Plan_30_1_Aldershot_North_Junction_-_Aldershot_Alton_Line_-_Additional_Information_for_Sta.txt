@@ -1,0 +1,8 @@
+Plan 30.1 Aldershot North Junction - Aldershot Alton Line - Additional Information for Station Staff
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Aldershot North Junction - Aldershot Alton Line
+Blockage type: One or both lines blocked
+Audience: station_staff
+
+Plan 30.1 Aldershot North Junction - Aldershot Alton Line. Category: line blockage. Location: Aldershot North Junction - Aldershot Alton Line. Blockage type: One or both lines blocked. Audience: station_staff. Recommended action (station_staff_info): SWR Bus Replacement Aldershot to Ascot and return.

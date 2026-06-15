@@ -1,0 +1,8 @@
+Plan 7.1 Micheldever - Winchester Bournemouth Main Line - Alternative Passenger Journey
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Micheldever - Winchester Bournemouth Main Line
+Blockage type: Both lines blocked
+Audience: passenger
+
+Plan 7.1 Micheldever - Winchester Bournemouth Main Line. Category: line blockage. Location: Micheldever - Winchester Bournemouth Main Line. Blockage type: Both lines blocked. Audience: passenger. Recommended action (alternative_passenger_journey): SWR Bus replacement. Local bus.

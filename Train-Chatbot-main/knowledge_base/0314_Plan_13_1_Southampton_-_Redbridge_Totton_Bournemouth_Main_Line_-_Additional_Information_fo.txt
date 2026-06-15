@@ -1,0 +1,8 @@
+Plan 13.1 Southampton - Redbridge / Totton Bournemouth Main Line - Additional Information for Station Staff
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Southampton - Redbridge / Totton Bournemouth Main Line
+Blockage type: All lines blocked
+Audience: station_staff
+
+Plan 13.1 Southampton - Redbridge / Totton Bournemouth Main Line. Category: line blockage. Location: Southampton - Redbridge / Totton Bournemouth Main Line. Blockage type: All lines blocked. Audience: station_staff. Recommended action (station_staff_info): SWR Bus replacement. Fast bus Southampton to Bournemouth. Slow Bus all stations Southampton Central to Brockenhurst.

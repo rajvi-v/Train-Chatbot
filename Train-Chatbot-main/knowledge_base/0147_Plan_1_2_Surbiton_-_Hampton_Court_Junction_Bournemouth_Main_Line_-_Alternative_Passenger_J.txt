@@ -1,0 +1,8 @@
+Plan 1.2 Surbiton - Hampton Court Junction Bournemouth Main Line - Alternative Passenger Journey
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Surbiton - Hampton Court Junction Bournemouth Main Line
+Blockage type: DMFL or UMFL blocked
+Audience: passenger
+
+Plan 1.2 Surbiton - Hampton Court Junction Bournemouth Main Line. Category: line blockage. Location: Surbiton - Hampton Court Junction Bournemouth Main Line. Blockage type: DMFL or UMFL blocked. Audience: passenger. Recommended action (alternative_passenger_journey): 1Axx xx.23/53 follow 1Pxx xx.30/00 ex Surbiton .

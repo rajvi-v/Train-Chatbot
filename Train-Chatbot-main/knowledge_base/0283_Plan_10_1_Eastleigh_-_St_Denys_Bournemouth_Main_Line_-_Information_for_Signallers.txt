@@ -1,0 +1,8 @@
+Plan 10.1 Eastleigh - St. Denys Bournemouth Main Line - Information for Signallers
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Eastleigh - St. Denys Bournemouth Main Line
+Blockage type: All lines blocked Status: (Allbrook to Eastleigh South Junction available)
+Audience: signaller
+
+Plan 10.1 Eastleigh - St. Denys Bournemouth Main Line. Category: line blockage. Location: Eastleigh - St. Denys Bournemouth Main Line. Blockage type: All lines blocked Status: (Allbrook to Eastleigh South Junction available). Audience: signaller. Recommended action (signaller_info): See Principles of Service Alteration.

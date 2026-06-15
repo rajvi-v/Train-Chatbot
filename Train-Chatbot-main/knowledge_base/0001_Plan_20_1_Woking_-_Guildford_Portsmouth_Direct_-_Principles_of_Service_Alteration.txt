@@ -1,0 +1,8 @@
+Plan 20.1 Woking - Guildford Portsmouth Direct - Principles of Service Alteration
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Woking - Guildford Portsmouth Direct
+Blockage type: Both lines blocked
+Audience: service_controller
+
+Plan 20.1 Woking - Guildford Portsmouth Direct. Category: line blockage. Location: Woking - Guildford Portsmouth Direct. Blockage type: Both lines blocked. Audience: service_controller. Recommended action (service_alteration): Off Peak 1Pxx xx.00 Waterloo – Haslemere & xx,02 return. Services Cancelled 1Pxx xx.30 Waterloo - Portsmouth Harbour & xx.45 return services run via Cobham . 2Pxx xx.45 Waterloo - Portsmouth & Southsea / Harbour & xx.18/24 return services run via Cobham Peak 1Pxx xx.00 Waterloo – Portsmouth Hbr & xx,02 return. Services Run via Cobham 1G/2Pxx xx.15 Waterloo – Portsmouth Hbr – Sevices Cancelled and stock run ECS via Eastleigh if crew have route knowledge 1Pxx xx.30 Waterloo - Portsmouth Harbour & xx.45 return services run via Cobham . 2Pxx xx.45 Waterloo - Portsmouth & Southsea / Harbour & xx.18/24 return services run via Cobham

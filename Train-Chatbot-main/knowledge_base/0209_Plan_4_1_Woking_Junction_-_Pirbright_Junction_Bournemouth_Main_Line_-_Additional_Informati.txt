@@ -1,0 +1,8 @@
+Plan 4.1 Woking Junction - Pirbright Junction Bournemouth Main Line - Additional Information for Station Staff
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Woking Junction - Pirbright Junction Bournemouth Main Line
+Blockage type: DMFL or UMFL blocked
+Audience: station_staff
+
+Plan 4.1 Woking Junction - Pirbright Junction Bournemouth Main Line. Category: line blockage. Location: Woking Junction - Pirbright Junction Bournemouth Main Line. Blockage type: DMFL or UMFL blocked. Audience: station_staff. Recommended action (station_staff_info): If Brookwood Stop withdrawn passengers to Circulate.

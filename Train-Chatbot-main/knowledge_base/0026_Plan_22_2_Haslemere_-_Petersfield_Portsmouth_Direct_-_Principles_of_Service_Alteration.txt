@@ -1,0 +1,8 @@
+Plan 22.2 Haslemere - Petersfield Portsmouth Direct - Principles of Service Alteration
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Haslemere - Petersfield Portsmouth Direct
+Blockage type: One line blocked (in either direction) Status: (Single Line Working not practicable)
+Audience: service_controller
+
+Plan 22.2 Haslemere - Petersfield Portsmouth Direct. Category: line blockage. Location: Haslemere - Petersfield Portsmouth Direct. Blockage type: One line blocked (in either direction) Status: (Single Line Working not practicable). Audience: service_controller. Recommended action (service_alteration): Off Peak 1Pxx xx.00 Waterloo to Haslemere and xx.02 return SSO Worplesdon , Witley & Milford 1Pxx xx.30 Waterloo to Portsmouth & xx.45 Portsmouth to Waterloo services divert via Eastleigh in affected direction only 2Pxx xx.45 Waterloo to Portsmouth & S –S tart at Petersfield. 2Pxx xx.18/24 Portsmouth & Southsea/Harbour to Waterloo Terminate/start Petersfield Peak 1Pxx xx.00 Waterloo - Portsmouth Harbour & xx.15 return Cancelled throughout 2Pxx xx.15 Waterloo - Portsmouth & xx.54 return services (Peaks) services terminate at Haslemere 1Pxx xx.30 Waterloo – Portsmouth & xx.45 Portsmouth - Waterloo services divert via Eastleigh in affected direction 2Pxx xx.45 Waterloo - Portsmouth & Southsea / Harbour Terminate/start Petersfield 2Pxx xx.18/24 Portsmouth & Southsea/Harbour to Waterloo Terminate/start Petersfield.

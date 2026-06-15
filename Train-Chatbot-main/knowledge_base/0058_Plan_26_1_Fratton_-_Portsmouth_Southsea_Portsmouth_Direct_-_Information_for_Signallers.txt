@@ -1,0 +1,8 @@
+Plan 26.1 Fratton - Portsmouth & Southsea Portsmouth Direct - Information for Signallers
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Fratton - Portsmouth & Southsea Portsmouth Direct
+Blockage type: All lines blocked
+Audience: signaller
+
+Plan 26.1 Fratton - Portsmouth & Southsea Portsmouth Direct. Category: line blockage. Location: Fratton - Portsmouth & Southsea Portsmouth Direct. Blockage type: All lines blocked. Audience: signaller. Recommended action (signaller_info): 1Pxx xx.00/30 Waterloo - Portsmouth Hbr & xx.15/45 Portsmouth - Waterloo Terminate/Start Fratton . 2Pxx xx.45 Waterloo - Portsmouth & Southsea / Harbour & xx.18/24 return services run between Waterloo and Havant . (Shunt on arrival - arrive xx.26, depart xx.41). 2Exx xx.42 Southampton - Portsmouth & Southsea & xx.36 return services Terminate/start Fratton (3 min turnround at Fratton). 1Txx xx.09 Waterloo - Portsmouth (EH) & xx.51 return Terminate/start Fareham .

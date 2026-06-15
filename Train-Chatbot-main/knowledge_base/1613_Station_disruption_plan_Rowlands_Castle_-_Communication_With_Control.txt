@@ -1,0 +1,8 @@
+Station disruption plan: Rowlands Castle - Communication With Control
+Source: RM South/Station Disruption Plan - Rowlands Castle Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Rowlands Castle
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Rowlands Castle. Category: station disruption. Location: Rowlands Castle. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

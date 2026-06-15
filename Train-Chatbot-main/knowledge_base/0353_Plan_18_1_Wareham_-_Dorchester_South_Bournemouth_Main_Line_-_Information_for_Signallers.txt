@@ -1,0 +1,8 @@
+Plan 18.1 Wareham - Dorchester South Bournemouth Main Line - Information for Signallers
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Wareham - Dorchester South Bournemouth Main Line
+Blockage type: One or both lines blocked
+Audience: signaller
+
+Plan 18.1 Wareham - Dorchester South Bournemouth Main Line. Category: line blockage. Location: Wareham - Dorchester South Bournemouth Main Line. Blockage type: One or both lines blocked. Audience: signaller. Recommended action (signaller_info): See Principles of Service Alteration.

@@ -1,0 +1,8 @@
+Station disruption plan: Winnersh - Communication With Control
+Source: RM Metro/Station Disruption Plan - Winnersh  Issue - April 2018.docx
+Category: station_disruption
+Location: Winnersh
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Winnersh. Category: station disruption. Location: Winnersh. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

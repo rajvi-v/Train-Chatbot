@@ -1,0 +1,8 @@
+Plan 15.2 Brockenhurst - Bournemouth Bournemouth Main Line - Alternative Passenger Journey
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Brockenhurst - Bournemouth Bournemouth Main Line
+Blockage type: One line blocked (in either direction)
+Audience: passenger
+
+Plan 15.2 Brockenhurst - Bournemouth Bournemouth Main Line. Category: line blockage. Location: Brockenhurst - Bournemouth Bournemouth Main Line. Blockage type: One line blocked (in either direction). Audience: passenger. Recommended action (alternative_passenger_journey): Fast bus services Southampton Airport Parkway - Bournemouth. Slow Bus from Southampton Central to Sway, New Milton, Hinton Admiral, Christchurch, Pokesdown and Bournemouth Slow Bus runs all stations Brockenhurst to Bournemouth.

@@ -1,0 +1,8 @@
+Station disruption plan: Fulwell - Communication With Control
+Source: RM Central/Station Disruption Plan - Fulwell  Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Fulwell
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Fulwell. Category: station disruption. Location: Fulwell. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

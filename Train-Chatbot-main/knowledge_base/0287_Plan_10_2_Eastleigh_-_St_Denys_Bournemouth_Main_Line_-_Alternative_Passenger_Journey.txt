@@ -1,0 +1,8 @@
+Plan 10.2 Eastleigh - St. Denys Bournemouth Main Line - Alternative Passenger Journey
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Eastleigh - St. Denys Bournemouth Main Line
+Blockage type: Up lines blocked Status: ( Allbrook to Eastleigh South Junction available)
+Audience: passenger
+
+Plan 10.2 Eastleigh - St. Denys Bournemouth Main Line. Category: line blockage. Location: Eastleigh - St. Denys Bournemouth Main Line. Blockage type: Up lines blocked Status: ( Allbrook to Eastleigh South Junction available). Audience: passenger. Recommended action (alternative_passenger_journey): SWR Bus Replacement Passengers via Southern to/from Havant Local Bus

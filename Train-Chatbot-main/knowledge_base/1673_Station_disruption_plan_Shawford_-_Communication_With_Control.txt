@@ -1,0 +1,8 @@
+Station disruption plan: Shawford - Communication With Control
+Source: RM South/Station Disruption Plan - Shawford Issue 1 - March 2018.docx
+Category: station_disruption
+Location: Shawford
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Shawford. Category: station disruption. Location: Shawford. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

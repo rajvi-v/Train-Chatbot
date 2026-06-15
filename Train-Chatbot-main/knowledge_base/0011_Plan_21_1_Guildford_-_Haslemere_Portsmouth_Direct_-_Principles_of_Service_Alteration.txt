@@ -1,0 +1,8 @@
+Plan 21.1 Guildford - Haslemere Portsmouth Direct - Principles of Service Alteration
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Guildford - Haslemere Portsmouth Direct
+Blockage type: Both lines blocked
+Audience: service_controller
+
+Plan 21.1 Guildford - Haslemere Portsmouth Direct. Category: line blockage. Location: Guildford - Haslemere Portsmouth Direct. Blockage type: Both lines blocked. Audience: service_controller. Recommended action (service_alteration): Off Peak 1Pxx xx.00 Waterloo – Haslemere & xx.02 return Start/Terminate at Guildford (SSO Worplesdon ) 1Pxx xx.30 Waterloo – Portsmouth Harbour – Divert via Eastleigh 1Pxx xx45 Portsmouth Hbr -Waterloo – Divert via Eastleigh 2Pxx xx.45 Waterloo - Portsmouth & Southsea / Harbour Run from Haslemere to Portsmouth & Southsea 2Pxx.18/24 Portsmouth - Waterloo Run between Portsmouth and Haslemere and return. GWR: If Shalford Junction is blocked, GWR services to run between Reading and Guildford only. Peak 1Pxx xx.00 Waterloo – Portsmouth Harbour & xx return Start/Terminate at Guildford (SSO Worplesdon ) 2Pxx xx.15 Waterloo to Portsmouth Harbour – Cancelled throughout 1Pxx xx.30 Waterloo – Portsmouth Harbour – Divert via Eastleigh 1Pxx xx45 Portsmouth Hbr -Waterloo – Divert via Eastleigh 2Pxx xx.45 Waterloo - Portsmouth & Southsea / Harbour Run from Haslemere to Portsmouth & Southsea 2Pxx.18/24 Portsmouth - Waterloo Run between Portsmouth and Haslemere and return. 2Pxx.45/54 Portsmouth - Waterloo Cancelled throughout

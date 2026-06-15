@@ -1,0 +1,8 @@
+Station disruption plan: Brookwood - Communication With Control
+Source: RM Central/Station Disruption Plan - Brookwood Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Brookwood
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Brookwood. Category: station disruption. Location: Brookwood. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

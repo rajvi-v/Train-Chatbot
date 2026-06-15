@@ -1,0 +1,8 @@
+Station disruption plan: Ashford - Communication With Control
+Source: RM Metro/Station Disruption Plan - Ashford Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Ashford
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Ashford. Category: station disruption. Location: Ashford. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

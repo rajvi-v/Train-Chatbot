@@ -1,0 +1,8 @@
+Plan 7.1 Micheldever - Winchester Bournemouth Main Line - Principles of Service Alteration
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Micheldever - Winchester Bournemouth Main Line
+Blockage type: Both lines blocked
+Audience: service_controller
+
+Plan 7.1 Micheldever - Winchester Bournemouth Main Line. Category: line blockage. Location: Micheldever - Winchester Bournemouth Main Line. Blockage type: Both lines blocked. Audience: service_controller. Recommended action (service_alteration): 1Wxx xx.05 Waterloo - Weymouth & return services start/terminate Bournemouth to Weymouth . 1Bxx xx.35 Waterloo - Poole & return services Divert via Havant . 2Bxx xx.50 Winchester - Bournemouth & return services to run as booked if can access Baltic Sidings at Winchester. To terminate at Eastleigh if cannot use Baltic Siding 1Txx xx.09 Waterloo - Portsmouth Harbour (EH) & return services run between Winchester & Portsmouth. To terminate at Eastleigh if no access to Baltic siding CrossCountry : 1Oxx (Down) & 1Mxx (Up) services divert between Basingstoke and Southampton Central via Laverstock/Chandlers Ford/Test Valley or services terminate/start at Reading. Trains trapped London side of blockage Terminate at Basingstoke. Berth Barton Mill until blockage cleared then Run ECS to Destination. Freight services diverted via Andover or Westbury. Bus service Basingstoke - Winchester. Minibus service Basingstoke - Micheldever - Winchester.

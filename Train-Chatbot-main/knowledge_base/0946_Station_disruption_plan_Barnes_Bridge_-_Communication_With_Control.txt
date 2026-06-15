@@ -1,0 +1,8 @@
+Station disruption plan: Barnes Bridge - Communication With Control
+Source: RM Metro/Station Disruption Plan - Barnes Bridge  Issue - April 2018.docx
+Category: station_disruption
+Location: Barnes Bridge
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Barnes Bridge. Category: station disruption. Location: Barnes Bridge. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

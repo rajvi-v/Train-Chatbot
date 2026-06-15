@@ -1,0 +1,8 @@
+Plan 29.1 Ash Vale - Aldershot North Junction Alton Line - Passenger Information
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Ash Vale - Aldershot North Junction Alton Line
+Blockage type: Both lines blocked
+Audience: passenger
+
+Plan 29.1 Ash Vale - Aldershot North Junction Alton Line. Category: line blockage. Location: Ash Vale - Aldershot North Junction Alton Line. Blockage type: Both lines blocked. Audience: passenger. Recommended action (passenger_info): Passengers from Brookwood to travel to Woking for trains to Aldershot. Passengers from Aldershot to Frimley and Camberley Bus 1 or 3, change to bus 34, 35 or 500 for Bagshot. Passengers from Bagshot to Camberley bus 34, 35 and Sunningdale bus 500, change for train to Ascot. Passengers from Ascot via Sunningdale station then 500 bus for Bagshot then bus 3 or Gold 1 to Camberley, Frimley, Ash Vale and Aldershot.

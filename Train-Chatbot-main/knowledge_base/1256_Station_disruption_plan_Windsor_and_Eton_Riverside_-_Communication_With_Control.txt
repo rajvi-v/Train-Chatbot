@@ -1,0 +1,8 @@
+Station disruption plan: Windsor and Eton Riverside - Communication With Control
+Source: RM Metro/Station Disruption Plan - Windsor and Eton Riverside  Issue - April 2018.docx
+Category: station_disruption
+Location: Windsor and Eton Riverside
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Windsor and Eton Riverside. Category: station disruption. Location: Windsor and Eton Riverside. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

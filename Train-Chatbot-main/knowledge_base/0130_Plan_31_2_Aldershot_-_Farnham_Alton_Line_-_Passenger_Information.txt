@@ -1,0 +1,8 @@
+Plan 31.2 Aldershot - Farnham Alton Line - Passenger Information
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Aldershot - Farnham Alton Line
+Blockage type: One line blocked (in either direction)
+Audience: passenger
+
+Plan 31.2 Aldershot - Farnham Alton Line. Category: line blockage. Location: Aldershot - Farnham Alton Line. Blockage type: One line blocked (in either direction). Audience: passenger. Recommended action (passenger_info): Local buses. Aldershot to Farnham and return buses 5, 17, 18, 18A, 19, 16 and 46.

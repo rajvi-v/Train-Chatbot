@@ -1,0 +1,8 @@
+Plan 18.1 Wareham - Dorchester South Bournemouth Main Line - Alternative Passenger Journey
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Wareham - Dorchester South Bournemouth Main Line
+Blockage type: One or both lines blocked
+Audience: passenger
+
+Plan 18.1 Wareham - Dorchester South Bournemouth Main Line. Category: line blockage. Location: Wareham - Dorchester South Bournemouth Main Line. Blockage type: One or both lines blocked. Audience: passenger. Recommended action (alternative_passenger_journey): SWR Bus service between Wareham and Dorchester South/Weymouth. Local buses.

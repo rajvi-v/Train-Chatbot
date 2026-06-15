@@ -1,0 +1,8 @@
+Plan 18.1 Wareham - Dorchester South Bournemouth Main Line - Additional Information for Station Staff
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Wareham - Dorchester South Bournemouth Main Line
+Blockage type: One or both lines blocked
+Audience: station_staff
+
+Plan 18.1 Wareham - Dorchester South Bournemouth Main Line. Category: line blockage. Location: Wareham - Dorchester South Bournemouth Main Line. Blockage type: One or both lines blocked. Audience: station_staff. Recommended action (station_staff_info): If no Weymouth - Dorchester Shuttle available use Bus 10 or GWR Dorchester West to Weymouth. Bus Replacement to run between Wareham and Dorchester South if Shuttle in place or Wareham to Weymouth if no shuttle available.

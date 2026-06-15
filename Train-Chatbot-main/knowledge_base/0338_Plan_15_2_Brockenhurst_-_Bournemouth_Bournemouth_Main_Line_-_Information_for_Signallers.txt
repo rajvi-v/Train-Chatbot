@@ -1,0 +1,8 @@
+Plan 15.2 Brockenhurst - Bournemouth Bournemouth Main Line - Information for Signallers
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Brockenhurst - Bournemouth Bournemouth Main Line
+Blockage type: One line blocked (in either direction)
+Audience: signaller
+
+Plan 15.2 Brockenhurst - Bournemouth Bournemouth Main Line. Category: line blockage. Location: Brockenhurst - Bournemouth Bournemouth Main Line. Blockage type: One line blocked (in either direction). Audience: signaller. Recommended action (signaller_info): See Principles of Service Alteration. If SLW impractical Terminate 1Wxx xx35 Waterloo to Weymouth and return terminates at Southampton Central.

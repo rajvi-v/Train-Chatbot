@@ -1,0 +1,8 @@
+Station disruption plan: Chiswick - Communication With Control
+Source: RM Metro/Station Disruption Plan - Chiswick  Issue - April 2018.docx
+Category: station_disruption
+Location: Chiswick
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Chiswick. Category: station disruption. Location: Chiswick. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

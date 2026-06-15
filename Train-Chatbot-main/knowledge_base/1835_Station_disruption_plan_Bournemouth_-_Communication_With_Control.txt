@@ -1,0 +1,8 @@
+Station disruption plan: Bournemouth - Communication With Control
+Source: RM West/Station Disruption Plan - Bournemouth Issue 2 - November 2020.docx
+Category: station_disruption
+Location: Bournemouth
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Bournemouth. Category: station disruption. Location: Bournemouth. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

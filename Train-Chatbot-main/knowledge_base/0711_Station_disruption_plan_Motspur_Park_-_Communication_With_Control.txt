@@ -1,0 +1,8 @@
+Station disruption plan: Motspur Park - Communication With Control
+Source: RM Central/Station Disruption Plan - Motspur Park  Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Motspur Park
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Motspur Park. Category: station disruption. Location: Motspur Park. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

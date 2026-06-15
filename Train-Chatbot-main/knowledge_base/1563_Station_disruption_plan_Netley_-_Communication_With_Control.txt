@@ -1,0 +1,8 @@
+Station disruption plan: Netley - Communication With Control
+Source: RM South/Station Disruption Plan - Netley Issue 2 - February 2021.docx
+Category: station_disruption
+Location: Netley
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Netley. Category: station disruption. Location: Netley. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

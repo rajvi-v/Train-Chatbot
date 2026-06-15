@@ -1,0 +1,8 @@
+Station disruption plan: Bedhampton - Communication With Control
+Source: RM South/Station Disruption Plan - Bedhampton Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Bedhampton
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Bedhampton. Category: station disruption. Location: Bedhampton. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

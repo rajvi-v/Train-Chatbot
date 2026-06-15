@@ -1,0 +1,8 @@
+Plan 7.2 Micheldever - Winchester Bournemouth Main Line - Information for Signallers
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Micheldever - Winchester Bournemouth Main Line
+Blockage type: One line blocked (in either direction)
+Audience: signaller
+
+Plan 7.2 Micheldever - Winchester Bournemouth Main Line. Category: line blockage. Location: Micheldever - Winchester Bournemouth Main Line. Blockage type: One line blocked (in either direction). Audience: signaller. Recommended action (signaller_info): See Principles of Service Alteration.

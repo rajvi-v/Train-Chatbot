@@ -1,0 +1,8 @@
+Plan 15.1 Brockenhurst - Bournemouth Bournemouth Main Line - Information for Signallers
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Brockenhurst - Bournemouth Bournemouth Main Line
+Blockage type: Both lines blocked
+Audience: signaller
+
+Plan 15.1 Brockenhurst - Bournemouth Bournemouth Main Line. Category: line blockage. Location: Brockenhurst - Bournemouth Bournemouth Main Line. Blockage type: Both lines blocked. Audience: signaller. Recommended action (signaller_info): 1Wxx terminate Southampton Central. 2Bxx terminate Brockenhurst. Cross country terminate Southampton Central (may extend to Brockenhurst subject to crew). Bournemouth to Weymouth Shuttle.

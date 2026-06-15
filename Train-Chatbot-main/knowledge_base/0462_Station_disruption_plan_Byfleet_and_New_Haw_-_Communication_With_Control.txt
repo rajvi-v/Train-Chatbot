@@ -1,0 +1,8 @@
+Station disruption plan: Byfleet and New Haw - Communication With Control
+Source: RM Central/Station Disruption Plan - Byfleet and New Haw Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Byfleet and New Haw
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Byfleet and New Haw. Category: station disruption. Location: Byfleet and New Haw. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

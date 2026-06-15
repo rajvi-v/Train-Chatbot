@@ -1,0 +1,8 @@
+Plan 4.3 Woking Junction - Pirbright Junction Bournemouth Main Line - Information for Signallers
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Woking Junction - Pirbright Junction Bournemouth Main Line
+Blockage type: All lines blocked
+Audience: signaller
+
+Plan 4.3 Woking Junction - Pirbright Junction Bournemouth Main Line. Category: line blockage. Location: Woking Junction - Pirbright Junction Bournemouth Main Line. Blockage type: All lines blocked. Audience: signaller. Recommended action (signaller_info): WoE services terminate/start Basingstoke . 1Axx Waterloo - Alton services diverted via Guildford . 1Txx xx.09 Waterloo - Portsmouth Harbour (EH) & return services start/terminate Basingstoke . 1Bxx xx.35 Waterloo - Poole & return services Divert via Havant . 1Wxx xx05 Waterloo - Weymouth & return services start/terminate Southampton . 2Lxx xx.12/42 Waterloo - Basingstoke stopping services shuttle Basingstoke to Farnborough . 2Jxx Farnham to Guildford and return Cancelled

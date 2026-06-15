@@ -1,0 +1,8 @@
+Plan 1.1 Surbiton - Hampton Court Junction Bournemouth Main Line - Passenger Information
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Surbiton - Hampton Court Junction Bournemouth Main Line
+Blockage type: DMSL blocked
+Audience: passenger
+
+Plan 1.1 Surbiton - Hampton Court Junction Bournemouth Main Line. Category: line blockage. Location: Surbiton - Hampton Court Junction Bournemouth Main Line. Blockage type: DMSL blocked. Audience: passenger. Recommended action (passenger_info): K3 bus Every 15 minutes, Surbiton to Hinchley Wood 12 minutes and Claygate 21 minutes.

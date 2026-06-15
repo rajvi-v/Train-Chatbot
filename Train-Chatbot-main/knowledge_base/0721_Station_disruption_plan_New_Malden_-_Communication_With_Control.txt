@@ -1,0 +1,8 @@
+Station disruption plan: New Malden - Communication With Control
+Source: RM Central/Station Disruption Plan - New Malden  Issue 1 - April 2018.docx
+Category: station_disruption
+Location: New Malden
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for New Malden. Category: station disruption. Location: New Malden. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

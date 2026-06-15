@@ -1,0 +1,8 @@
+Station disruption plan: LAKE - Communication With Control
+Source: RM South/Station Disruption Plan - Lake Issue  2 - January 2021.docx
+Category: station_disruption
+Location: LAKE
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for LAKE. Category: station disruption. Location: LAKE. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

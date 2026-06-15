@@ -1,0 +1,8 @@
+Plan 6.1 Basingstoke - Micheldever Bournemouth Main Line - Additional Information for Station Staff
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Basingstoke - Micheldever Bournemouth Main Line
+Blockage type: Both lines blocked
+Audience: station_staff
+
+Plan 6.1 Basingstoke - Micheldever Bournemouth Main Line. Category: line blockage. Location: Basingstoke - Micheldever Bournemouth Main Line. Blockage type: Both lines blocked. Audience: station_staff. Recommended action (station_staff_info): Ticket acceptance via Salisbury to Basingstoke (GWR/SWR) & Southern/GTR to Havant and Clapham Junction. SWR Bus Replacement. Bus service Basingstoke - Winchester. Winchester -Micheldever - Basingstoke (mini bus).

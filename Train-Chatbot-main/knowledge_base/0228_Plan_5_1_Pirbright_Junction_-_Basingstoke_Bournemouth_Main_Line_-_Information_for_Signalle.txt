@@ -1,0 +1,8 @@
+Plan 5.1 Pirbright Junction - Basingstoke Bournemouth Main Line - Information for Signallers
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Pirbright Junction - Basingstoke Bournemouth Main Line
+Blockage type: DMFL or UMFL blocked
+Audience: signaller
+
+Plan 5.1 Pirbright Junction - Basingstoke Bournemouth Main Line. Category: line blockage. Location: Pirbright Junction - Basingstoke Bournemouth Main Line. Blockage type: DMFL or UMFL blocked. Audience: signaller. Recommended action (signaller_info): See Principals of Service Alteration.

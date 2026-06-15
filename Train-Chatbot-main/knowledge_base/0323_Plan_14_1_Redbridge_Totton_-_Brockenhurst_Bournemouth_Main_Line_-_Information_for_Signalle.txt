@@ -1,0 +1,8 @@
+Plan 14.1 Redbridge / Totton - Brockenhurst Bournemouth Main Line - Information for Signallers
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Redbridge / Totton - Brockenhurst Bournemouth Main Line
+Blockage type: All lines blocked
+Audience: signaller
+
+Plan 14.1 Redbridge / Totton - Brockenhurst Bournemouth Main Line. Category: line blockage. Location: Redbridge / Totton - Brockenhurst Bournemouth Main Line. Blockage type: All lines blocked. Audience: signaller. Recommended action (signaller_info): See Principles of Service Alteration.

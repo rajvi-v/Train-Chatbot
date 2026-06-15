@@ -1,0 +1,8 @@
+Plan 3.3 Weybridge - Woking Bournemouth Main Line - Alternative Passenger Journey
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Weybridge - Woking Bournemouth Main Line
+Blockage type: DMSL blocked
+Audience: passenger
+
+Plan 3.3 Weybridge - Woking Bournemouth Main Line. Category: line blockage. Location: Weybridge - Woking Bournemouth Main Line. Blockage type: DMSL blocked. Audience: passenger. Recommended action (alternative_passenger_journey): Not required.

@@ -1,0 +1,8 @@
+Plan 24.2 Havant - Portcreek Junction Portsmouth Direct - Additional Information for Station Staff
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Havant - Portcreek Junction Portsmouth Direct
+Blockage type: One line blocked (in either direction)
+Audience: station_staff
+
+Plan 24.2 Havant - Portcreek Junction Portsmouth Direct. Category: line blockage. Location: Havant - Portcreek Junction Portsmouth Direct. Blockage type: One line blocked (in either direction). Audience: station_staff. Recommended action (station_staff_info): SWR bus replacement to Portsmouth Harbour Fast bus calling at Portsmouth & Southsea. Slow bus calling all stations, including Cosham at Havant.

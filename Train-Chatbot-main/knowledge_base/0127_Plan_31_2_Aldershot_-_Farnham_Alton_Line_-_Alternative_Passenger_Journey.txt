@@ -1,0 +1,8 @@
+Plan 31.2 Aldershot - Farnham Alton Line - Alternative Passenger Journey
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Aldershot - Farnham Alton Line
+Blockage type: One line blocked (in either direction)
+Audience: passenger
+
+Plan 31.2 Aldershot - Farnham Alton Line. Category: line blockage. Location: Aldershot - Farnham Alton Line. Blockage type: One line blocked (in either direction). Audience: passenger. Recommended action (alternative_passenger_journey): SWR bus replacement Aldershot to Farnham. Local buses.

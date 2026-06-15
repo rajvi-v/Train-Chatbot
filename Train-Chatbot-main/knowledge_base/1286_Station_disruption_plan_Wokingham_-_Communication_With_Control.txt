@@ -1,0 +1,8 @@
+Station disruption plan: Wokingham - Communication With Control
+Source: RM Metro/Station Disruption Plan - Wokingham  Issue - April 2018.docx
+Category: station_disruption
+Location: Wokingham
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Wokingham. Category: station disruption. Location: Wokingham. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

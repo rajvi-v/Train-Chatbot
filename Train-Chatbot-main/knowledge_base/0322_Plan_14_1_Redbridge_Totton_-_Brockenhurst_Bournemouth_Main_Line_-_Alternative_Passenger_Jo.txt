@@ -1,0 +1,8 @@
+Plan 14.1 Redbridge / Totton - Brockenhurst Bournemouth Main Line - Alternative Passenger Journey
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Redbridge / Totton - Brockenhurst Bournemouth Main Line
+Blockage type: All lines blocked
+Audience: passenger
+
+Plan 14.1 Redbridge / Totton - Brockenhurst Bournemouth Main Line. Category: line blockage. Location: Redbridge / Totton - Brockenhurst Bournemouth Main Line. Blockage type: All lines blocked. Audience: passenger. Recommended action (alternative_passenger_journey): SWR bus replacement. Local buses.

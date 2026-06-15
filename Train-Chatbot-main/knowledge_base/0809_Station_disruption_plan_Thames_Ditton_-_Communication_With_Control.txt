@@ -1,0 +1,8 @@
+Station disruption plan: Thames Ditton - Communication With Control
+Source: RM Central/Station Disruption Plan - Thames Ditton Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Thames Ditton
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Thames Ditton. Category: station disruption. Location: Thames Ditton. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

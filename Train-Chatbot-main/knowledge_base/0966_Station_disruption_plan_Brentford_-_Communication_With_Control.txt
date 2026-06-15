@@ -1,0 +1,8 @@
+Station disruption plan: Brentford - Communication With Control
+Source: RM Metro/Station Disruption Plan - Brentford  Issue - April 2018.docx
+Category: station_disruption
+Location: Brentford
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Brentford. Category: station disruption. Location: Brentford. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

@@ -1,0 +1,8 @@
+Station disruption plan: Teddington - Communication With Control
+Source: RM Central/Station Disruption Plan - Teddington  Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Teddington
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Teddington. Category: station disruption. Location: Teddington. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

@@ -1,0 +1,8 @@
+Plan 3.3 Weybridge - Woking Bournemouth Main Line - Principles of Service Alteration
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Weybridge - Woking Bournemouth Main Line
+Blockage type: DMSL blocked
+Audience: service_controller
+
+Plan 3.3 Weybridge - Woking Bournemouth Main Line. Category: line blockage. Location: Weybridge - Woking Bournemouth Main Line. Blockage type: DMSL blocked. Audience: service_controller. Recommended action (service_alteration): Trains diverted via DMFL. 1Txx precede 2Fxx ex Weybridge. 2Fxx do not call Byfleet and New Haw. Passengers for Byfleet & New Haw circulate via West Byfleet.

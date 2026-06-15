@@ -1,0 +1,8 @@
+Plan 24.2 Havant - Portcreek Junction Portsmouth Direct - Passenger Information
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Havant - Portcreek Junction Portsmouth Direct
+Blockage type: One line blocked (in either direction)
+Audience: passenger
+
+Plan 24.2 Havant - Portcreek Junction Portsmouth Direct. Category: line blockage. Location: Havant - Portcreek Junction Portsmouth Direct. Blockage type: One line blocked (in either direction). Audience: passenger. Recommended action (passenger_info): Local buses. Passengers from Havant to/from Fratton 21 (every 10 minutes journey 71 minutes) Passengers from Havant to/from Portsmouth city centre and Harbour 20/21/23/700 (every 5 minutes, Journey times 36 minutes to 71 minutes Passenger from Havant to/from Cosham 20 every 30 mins time 53 /23 Every 10 minutes Time 17 minutes. Passengers from Havant to/from Hilsea 21 every 10 minutes journey 65. Passengers From Havant to/from Bedhampton 23 every 10 minutes 30 minutes journey. Note: Red line = line blocked, Hatched line = line in either direction could be blocked.

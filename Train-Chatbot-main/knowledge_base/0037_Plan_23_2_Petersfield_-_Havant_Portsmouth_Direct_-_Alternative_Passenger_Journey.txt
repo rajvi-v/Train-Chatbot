@@ -1,0 +1,8 @@
+Plan 23.2 Petersfield - Havant Portsmouth Direct - Alternative Passenger Journey
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Petersfield - Havant Portsmouth Direct
+Blockage type: One line blocked (in either direction) Status: (Single Line Working not practicable)
+Audience: passenger
+
+Plan 23.2 Petersfield - Havant Portsmouth Direct. Category: line blockage. Location: Petersfield - Havant Portsmouth Direct. Blockage type: One line blocked (in either direction) Status: (Single Line Working not practicable). Audience: passenger. Recommended action (alternative_passenger_journey): Local bus. SWR Replacement bus.

@@ -1,0 +1,8 @@
+Plan 13.2 Southampton - Redbridge / Totton Bournemouth Main Line - Principles of Service Alteration
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Southampton - Redbridge / Totton Bournemouth Main Line
+Blockage type: One line blocked (in either direction)
+Audience: service_controller
+
+Plan 13.2 Southampton - Redbridge / Totton Bournemouth Main Line. Category: line blockage. Location: Southampton - Redbridge / Totton Bournemouth Main Line. Blockage type: One line blocked (in either direction). Audience: service_controller. Recommended action (service_alteration): If Single Line Working can be implemented . 1Wxx xx.05 Waterloo - Weymouth & return services run under SLW arrangements. 1Bxx xx.35 Waterloo - Poole & return services run under SLW arrangements.(SSO Shawford ) 2Bxx xx.49 Winchester - Bournemouth & return service cancelled. Stock to berth at Bournemouth and Southampton Goods loop. 2Rxx xx 56 Salisbury - Romsey and return services run only between Salisbury and Southampton Central via Chandlers Ford . 1Wxx xx35 service to call all stations Southampton to Brockenhurst. GWR: Services divert via Eastleigh / Chandlers Ford if crew knowledge permits. If not terminate at Salisbury and form 1Fxx services departing Salisbury at xx:42. CrossCountry : 1Oxx (Down) & 1Mxx (Up) services terminate / start at Southampton Central (if capacity at Southampton is a risk terminate / start at Reading). Freight services divert via Eastleigh if practical. If Single Line Working not available use Plan 13.1 for all lines blocked.

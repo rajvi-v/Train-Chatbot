@@ -1,0 +1,8 @@
+Station disruption plan: Winchfield - Communication With Control
+Source: RM South/Station Disruption Plan - Winchfield Issue 2 - February 2021.docx
+Category: station_disruption
+Location: Winchfield
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Winchfield. Category: station disruption. Location: Winchfield. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

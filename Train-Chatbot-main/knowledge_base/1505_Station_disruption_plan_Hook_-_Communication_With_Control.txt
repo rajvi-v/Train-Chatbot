@@ -1,0 +1,8 @@
+Station disruption plan: Hook - Communication With Control
+Source: RM South/Station Disruption Plan - Hook Issue 2 February 2021.docx
+Category: station_disruption
+Location: Hook
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Hook. Category: station disruption. Location: Hook. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

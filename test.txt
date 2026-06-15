@@ -1,0 +1,24 @@
+Questions to ask
+
+hi, i want to book a ticket
+norwich
+London
+june 4th at 10 am
+return also
+june 5th at 10 am
+yes
+16-25
+
+i want to predict additional delay of my train
+WAT2WEY
+London Waterloo
+Weymouth
+14:00
+Woking
+23
+
+there is a line blockage
+line blockage
+havant - portcreek junction portsmouth direct
+one line blocked
+station staff advice. 

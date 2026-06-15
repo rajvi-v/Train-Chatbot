@@ -1,0 +1,8 @@
+Station disruption plan: Raynes Park - Communication With Control
+Source: RM Central/Station Disruption Plan - Raynes Park  Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Raynes Park
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Raynes Park. Category: station disruption. Location: Raynes Park. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

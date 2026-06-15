@@ -1,0 +1,8 @@
+Plan 35.2 Andover - Laverstock North Junction Basingstoke to Laverstock - Information for Signallers
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Andover - Laverstock North Junction Basingstoke to Laverstock
+Blockage type: One line blocked (in either direction)
+Audience: signaller
+
+Plan 35.2 Andover - Laverstock North Junction Basingstoke to Laverstock. Category: line blockage. Location: Andover - Laverstock North Junction Basingstoke to Laverstock. Blockage type: One line blocked (in either direction). Audience: signaller. Recommended action (signaller_info): If 1Lxx xx.20 Waterloo to Exeter St Davids trapped Run back to Basingstoke and divert via Southampton Central. Up service divert via Southampton Central. Pilot drivers may be required Salisbury - Southampton Central or Southampton Central to Basingstoke.

@@ -1,0 +1,8 @@
+Plan 2.3 Hampton Court Junction - Weybridge Bournemouth Main Line - Alternative Passenger Journey
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Hampton Court Junction - Weybridge Bournemouth Main Line
+Blockage type: DMSL blocked
+Audience: passenger
+
+Plan 2.3 Hampton Court Junction - Weybridge Bournemouth Main Line. Category: line blockage. Location: Hampton Court Junction - Weybridge Bournemouth Main Line. Blockage type: DMSL blocked. Audience: passenger. Recommended action (alternative_passenger_journey): Passengers on 2Fxx xx.20/50 Waterloo - Woking for Esher, Hersham or Walton circulate via Weybridge. Follow 1Pxx Surbiton 2Lxx xx.42/12 follow 2Pxx xx.45/15 from Surbiton.

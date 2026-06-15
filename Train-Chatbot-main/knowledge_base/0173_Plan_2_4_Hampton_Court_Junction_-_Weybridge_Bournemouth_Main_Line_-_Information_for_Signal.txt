@@ -1,0 +1,8 @@
+Plan 2.4 Hampton Court Junction - Weybridge Bournemouth Main Line - Information for Signallers
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Hampton Court Junction - Weybridge Bournemouth Main Line
+Blockage type: UMSL blocked
+Audience: signaller
+
+Plan 2.4 Hampton Court Junction - Weybridge Bournemouth Main Line. Category: line blockage. Location: Hampton Court Junction - Weybridge Bournemouth Main Line. Blockage type: UMSL blocked. Audience: signaller. Recommended action (signaller_info): Trains diverted on UMFL 2Fxx xx.03/33 not to call Walton on Thames, Hersham or Esher, 2Lxx xx.34/54 not to call Walton on Thames.

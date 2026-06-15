@@ -1,0 +1,8 @@
+Plan 1.3 Surbiton - Hampton Court Junction Bournemouth Main Line - Principles of Service Alteration
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Surbiton - Hampton Court Junction Bournemouth Main Line
+Blockage type: UMSL blocked
+Audience: service_controller
+
+Plan 1.3 Surbiton - Hampton Court Junction Bournemouth Main Line. Category: line blockage. Location: Surbiton - Hampton Court Junction Bournemouth Main Line. Blockage type: UMSL blocked. Audience: service_controller. Recommended action (service_alteration): If no access from New Line, 2Gxx Guildford (C) services diverted via Woking (call for crew purposes). AM Peak 2Jxx Hampton Court services cancelled. After 1000 2Jxx Hampton Ct - Waterloo services run over reversible line to Surbiton. Shuttle service will be required during PM peak to avoid crossing moves.

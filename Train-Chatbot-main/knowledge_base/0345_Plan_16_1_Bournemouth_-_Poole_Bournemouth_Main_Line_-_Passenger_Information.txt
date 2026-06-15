@@ -1,0 +1,8 @@
+Plan 16.1 Bournemouth - Poole Bournemouth Main Line - Passenger Information
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Bournemouth - Poole Bournemouth Main Line
+Blockage type: One or both lines blocked
+Audience: passenger
+
+Plan 16.1 Bournemouth - Poole Bournemouth Main Line. Category: line blockage. Location: Bournemouth - Poole Bournemouth Main Line. Blockage type: One or both lines blocked. Audience: passenger. Recommended action (passenger_info): Local buses. Passengers at Poole for Bournemouth Bus 1,1c,m1,m2 every 10 minutes 32-35 minutes Passengers at Poole for Parkstone Bus 1,1c,m1,m2 every 10 minutes journey 10 minutes Passengers at Poole to Branksome Bus 1,1c,m1 m2 every 10 minutes Journey 16 minutes.

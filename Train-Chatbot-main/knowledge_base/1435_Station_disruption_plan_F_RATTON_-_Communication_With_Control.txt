@@ -1,0 +1,8 @@
+Station disruption plan: F RATTON - Communication With Control
+Source: RM South/Station Disruption Plan - Fratton Issue 1 - April 2018.docx
+Category: station_disruption
+Location: F RATTON
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for F RATTON. Category: station disruption. Location: F RATTON. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

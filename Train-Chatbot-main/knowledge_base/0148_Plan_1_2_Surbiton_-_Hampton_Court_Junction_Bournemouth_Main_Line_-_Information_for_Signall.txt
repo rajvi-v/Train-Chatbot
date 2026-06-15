@@ -1,0 +1,8 @@
+Plan 1.2 Surbiton - Hampton Court Junction Bournemouth Main Line - Information for Signallers
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Surbiton - Hampton Court Junction Bournemouth Main Line
+Blockage type: DMFL or UMFL blocked
+Audience: signaller
+
+Plan 1.2 Surbiton - Hampton Court Junction Bournemouth Main Line. Category: line blockage. Location: Surbiton - Hampton Court Junction Bournemouth Main Line. Blockage type: DMFL or UMFL blocked. Audience: signaller. Recommended action (signaller_info): Divert via DMSL or UMSL. 1Axx xx.23/53 Waterloo to Alton should follow 1Pxx xx.00/30 from Surbiton if possible.

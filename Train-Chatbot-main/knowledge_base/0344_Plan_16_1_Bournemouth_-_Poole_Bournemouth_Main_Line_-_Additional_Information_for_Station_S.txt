@@ -1,0 +1,8 @@
+Plan 16.1 Bournemouth - Poole Bournemouth Main Line - Additional Information for Station Staff
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Bournemouth - Poole Bournemouth Main Line
+Blockage type: One or both lines blocked
+Audience: station_staff
+
+Plan 16.1 Bournemouth - Poole Bournemouth Main Line. Category: line blockage. Location: Bournemouth - Poole Bournemouth Main Line. Blockage type: One or both lines blocked. Audience: station_staff. Recommended action (station_staff_info): SWR Bus replacement Fast bus from Bournemouth to Poole and return. (if Poole not Available) Run Bournemouth, Poole, Wareham only. Slow bus Bournemouth to Poole (if Poole not available extend to Wareham).

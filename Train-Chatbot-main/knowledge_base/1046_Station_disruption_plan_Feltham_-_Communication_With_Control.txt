@@ -1,0 +1,8 @@
+Station disruption plan: Feltham - Communication With Control
+Source: RM Metro/Station Disruption Plan - Feltham  Issue - April 2018.docx
+Category: station_disruption
+Location: Feltham
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Feltham. Category: station disruption. Location: Feltham. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

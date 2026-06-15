@@ -1,0 +1,8 @@
+Plan 22.1 Haslemere - Petersfield Portsmouth Direct - Information for Signallers
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Haslemere - Petersfield Portsmouth Direct
+Blockage type: Both lines blocked
+Audience: signaller
+
+Plan 22.1 Haslemere - Petersfield Portsmouth Direct. Category: line blockage. Location: Haslemere - Petersfield Portsmouth Direct. Blockage type: Both lines blocked. Audience: signaller. Recommended action (signaller_info): See Principles of Service Alteration. If 1Pxx xx.00/30 Waterloo to Portsmouth Harbour has departed Guildford, terminate Haslemere and run fast via Woking to Fratton (if crew knowledge allows). If 1Pxx xx.15/45 Portsmouth to Waterloo has passed Portcreek Junction run to Eastleigh via Havant, or via Petersfield if past Havant.

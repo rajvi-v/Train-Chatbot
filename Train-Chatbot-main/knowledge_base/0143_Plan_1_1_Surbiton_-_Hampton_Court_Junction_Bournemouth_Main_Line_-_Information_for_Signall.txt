@@ -1,0 +1,8 @@
+Plan 1.1 Surbiton - Hampton Court Junction Bournemouth Main Line - Information for Signallers
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Surbiton - Hampton Court Junction Bournemouth Main Line
+Blockage type: DMSL blocked
+Audience: signaller
+
+Plan 1.1 Surbiton - Hampton Court Junction Bournemouth Main Line. Category: line blockage. Location: Surbiton - Hampton Court Junction Bournemouth Main Line. Blockage type: DMSL blocked. Audience: signaller. Recommended action (signaller_info): 2Gxx Waterloo to Guildford divert via Woking with extra stop at Woking. 1Gxx Waterloo to Havant/Portsmouth via Woking.

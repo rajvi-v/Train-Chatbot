@@ -1,0 +1,8 @@
+Plan 6.2 Basingstoke - Micheldever Bournemouth Main Line - Alternative Passenger Journey
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Basingstoke - Micheldever Bournemouth Main Line
+Blockage type: One line blocked (in either direction)
+Audience: passenger
+
+Plan 6.2 Basingstoke - Micheldever Bournemouth Main Line. Category: line blockage. Location: Basingstoke - Micheldever Bournemouth Main Line. Blockage type: One line blocked (in either direction). Audience: passenger. Recommended action (alternative_passenger_journey): SWR Bus replacement. Local bus.

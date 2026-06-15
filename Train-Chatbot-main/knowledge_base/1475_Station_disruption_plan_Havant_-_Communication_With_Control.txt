@@ -1,0 +1,8 @@
+Station disruption plan: Havant - Communication With Control
+Source: RM South/Station Disruption Plan - Havant Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Havant
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Havant. Category: station disruption. Location: Havant. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

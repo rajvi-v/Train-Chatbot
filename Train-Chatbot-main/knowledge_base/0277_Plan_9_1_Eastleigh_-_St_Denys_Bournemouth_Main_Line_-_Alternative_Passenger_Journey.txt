@@ -1,0 +1,8 @@
+Plan 9.1 Eastleigh - St. Denys Bournemouth Main Line - Alternative Passenger Journey
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Eastleigh - St. Denys Bournemouth Main Line
+Blockage type: All lines blocked ( No access to E.S. junc)
+Audience: passenger
+
+Plan 9.1 Eastleigh - St. Denys Bournemouth Main Line. Category: line blockage. Location: Eastleigh - St. Denys Bournemouth Main Line. Blockage type: All lines blocked ( No access to E.S. junc). Audience: passenger. Recommended action (alternative_passenger_journey): Local bus / ticket acceptance Southern / SWR bus replacement

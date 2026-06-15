@@ -1,0 +1,8 @@
+Plan 8.1 Winchester - Eastleigh Bournemouth Main Line - Alternative Passenger Journey
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Winchester - Eastleigh Bournemouth Main Line
+Blockage type: Both lines blocked
+Audience: passenger
+
+Plan 8.1 Winchester - Eastleigh Bournemouth Main Line. Category: line blockage. Location: Winchester - Eastleigh Bournemouth Main Line. Blockage type: Both lines blocked. Audience: passenger. Recommended action (alternative_passenger_journey): SWR Bus replacement. Local buses.

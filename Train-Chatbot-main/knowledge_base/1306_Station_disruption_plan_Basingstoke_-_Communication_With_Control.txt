@@ -1,0 +1,8 @@
+Station disruption plan: Basingstoke - Communication With Control
+Source: RM South/Station Disruption Plan - Basingstoke Issue 3 - December 2020.docx
+Category: station_disruption
+Location: Basingstoke
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Basingstoke. Category: station disruption. Location: Basingstoke. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

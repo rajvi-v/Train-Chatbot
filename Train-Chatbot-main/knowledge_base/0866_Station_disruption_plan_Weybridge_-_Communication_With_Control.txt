@@ -1,0 +1,8 @@
+Station disruption plan: Weybridge - Communication With Control
+Source: RM Central/Station Disruption Plan - Weybridge Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Weybridge
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Weybridge. Category: station disruption. Location: Weybridge. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

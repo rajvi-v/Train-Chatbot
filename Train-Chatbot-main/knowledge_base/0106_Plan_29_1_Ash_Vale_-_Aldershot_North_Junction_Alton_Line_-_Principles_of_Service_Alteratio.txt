@@ -1,0 +1,8 @@
+Plan 29.1 Ash Vale - Aldershot North Junction Alton Line - Principles of Service Alteration
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Ash Vale - Aldershot North Junction Alton Line
+Blockage type: Both lines blocked
+Audience: service_controller
+
+Plan 29.1 Ash Vale - Aldershot North Junction Alton Line. Category: line blockage. Location: Ash Vale - Aldershot North Junction Alton Line. Blockage type: Both lines blocked. Audience: service_controller. Recommended action (service_alteration): 1Axx xx.23/53 Waterloo - Alton & return services run via Guildford and call additionally at Wanborough and Ash. 2Nxx xx23/53 Ascot - Aldershot & return services cancelled . 2Jxx xx04/34 Farnham - Guildford & return services cancelled . .(Use Crew to pilot 1Axx service crewed by BV/WA/WM) Consider 2Lxx forming 2Lxx services at Waterloo and use BV crew accordingly. Note: BV/WA/WM crews have NO alternative route knowledge. (WA/WM do have route knowledge to Woking to Guildford). If Country side of Block hold in Platforms. If running Down from London consider diverting to Basingstoke. Watch for crew changes at Farnham.

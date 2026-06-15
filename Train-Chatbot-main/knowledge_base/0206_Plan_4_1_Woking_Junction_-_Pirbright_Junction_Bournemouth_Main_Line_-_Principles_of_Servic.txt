@@ -1,0 +1,8 @@
+Plan 4.1 Woking Junction - Pirbright Junction Bournemouth Main Line - Principles of Service Alteration
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Woking Junction - Pirbright Junction Bournemouth Main Line
+Blockage type: DMFL or UMFL blocked
+Audience: service_controller
+
+Plan 4.1 Woking Junction - Pirbright Junction Bournemouth Main Line. Category: line blockage. Location: Woking Junction - Pirbright Junction Bournemouth Main Line. Blockage type: DMFL or UMFL blocked. Audience: service_controller. Recommended action (service_alteration): Trains diverted via Slow lines. Consider withdrawing Brookwood stop.

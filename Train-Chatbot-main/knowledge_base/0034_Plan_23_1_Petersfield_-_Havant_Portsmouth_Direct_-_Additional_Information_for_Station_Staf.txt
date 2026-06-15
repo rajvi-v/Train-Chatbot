@@ -1,0 +1,8 @@
+Plan 23.1 Petersfield - Havant Portsmouth Direct - Additional Information for Station Staff
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Petersfield - Havant Portsmouth Direct
+Blockage type: Both lines blocked
+Audience: station_staff
+
+Plan 23.1 Petersfield - Havant Portsmouth Direct. Category: line blockage. Location: Petersfield - Havant Portsmouth Direct. Blockage type: Both lines blocked. Audience: station_staff. Recommended action (station_staff_info): 1Pxx xx.30 Waterloo - Portsmouth Harbour & xx.45 return services divert via Eastleigh 2Pxx xx.45 Waterloo - Portsmouth & Southsea / Harbour & xx.18/24 return services terminate at Petersfield and restart Up 2Pxx. SWR Bus replacement Fast Bus Havant to Petersfield and slow bus via Rowlands Castle.

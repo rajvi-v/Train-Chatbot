@@ -1,0 +1,8 @@
+Station disruption plan: Martins Heron - Communication With Control
+Source: RM Metro/Station Disruption Plan - Martins Heron  Issue - April 2018.docx
+Category: station_disruption
+Location: Martins Heron
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Martins Heron. Category: station disruption. Location: Martins Heron. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

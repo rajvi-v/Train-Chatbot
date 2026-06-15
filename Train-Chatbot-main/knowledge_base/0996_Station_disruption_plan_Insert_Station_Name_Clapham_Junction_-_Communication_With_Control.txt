@@ -1,0 +1,8 @@
+Station disruption plan: Insert Station Name Clapham Junction - Communication With Control
+Source: RM Metro/Station Disruption Plan - Clapham Junction  Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Insert Station Name Clapham Junction
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Insert Station Name Clapham Junction. Category: station disruption. Location: Insert Station Name Clapham Junction. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

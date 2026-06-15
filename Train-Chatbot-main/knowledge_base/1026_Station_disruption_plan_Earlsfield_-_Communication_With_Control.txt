@@ -1,0 +1,8 @@
+Station disruption plan: Earlsfield - Communication With Control
+Source: RM Metro/Station Disruption Plan - Earlsfield  Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Earlsfield
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Earlsfield. Category: station disruption. Location: Earlsfield. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

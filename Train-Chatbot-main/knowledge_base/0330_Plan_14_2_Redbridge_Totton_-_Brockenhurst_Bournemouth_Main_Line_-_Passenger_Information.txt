@@ -1,0 +1,8 @@
+Plan 14.2 Redbridge / Totton - Brockenhurst Bournemouth Main Line - Passenger Information
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Redbridge / Totton - Brockenhurst Bournemouth Main Line
+Blockage type: One line blocked (in either direction)
+Audience: passenger
+
+Plan 14.2 Redbridge / Totton - Brockenhurst Bournemouth Main Line. Category: line blockage. Location: Redbridge / Totton - Brockenhurst Bournemouth Main Line. Blockage type: One line blocked (in either direction). Audience: passenger. Recommended action (passenger_info): Local buses. Brockenhurst to Southampton Bus 6 @ 0645,0856,1008 then Hourly until 1408,1553,1751 calling at Ashurst (18 minutes) Totton (40 minutes) Redbridge (45 minutes) Millbrook (48 minutes) Southampton Central (55 minutes) Southampton Central Bus 6 @ 0905,1025 Then Hourly to 1725,1854 Millbrook (10 minutes) Redbridge (12 minutes) Totton (17 minutes) Ashurst (35 Minutes) Brockenhurst (50 minutes) Beaulieu Road No Bus. Totton to Southampton Central via Redbridge & Millbrook and 6,8,11,12,X7, X7R every 5 minutes Redbridge (5 minutes) Millbrook (8 minutes) Southampton Central (15 minutes).

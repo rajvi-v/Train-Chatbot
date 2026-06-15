@@ -1,0 +1,8 @@
+Station disruption plan: Surbiton - Communication With Control
+Source: RM Central/Station Disruption Plan - Surbiton Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Surbiton
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Surbiton. Category: station disruption. Location: Surbiton. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

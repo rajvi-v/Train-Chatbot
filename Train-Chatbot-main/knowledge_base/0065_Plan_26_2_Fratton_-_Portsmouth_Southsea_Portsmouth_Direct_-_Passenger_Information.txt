@@ -1,0 +1,8 @@
+Plan 26.2 Fratton - Portsmouth & Southsea Portsmouth Direct - Passenger Information
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Fratton - Portsmouth & Southsea Portsmouth Direct
+Blockage type: One line blocked (in either direction)
+Audience: passenger
+
+Plan 26.2 Fratton - Portsmouth & Southsea Portsmouth Direct. Category: line blockage. Location: Fratton - Portsmouth & Southsea Portsmouth Direct. Blockage type: One line blocked (in either direction). Audience: passenger. Recommended action (passenger_info): Local buses. Passengers from Fratton to Portsmouth city centre and Harbour bus 1 or 21 (every 10 minutes journey 7 minutes and 12 minutes) Passengers from Portsmouth and Southsea to Harbour 1, 2, 3, 8, 15, 20, 21, 23 and 700 (every 2-3 minutes, Journey times 3 minutes. Note: Red line = line blocked, Hatched line = line in either direction could be blocked.

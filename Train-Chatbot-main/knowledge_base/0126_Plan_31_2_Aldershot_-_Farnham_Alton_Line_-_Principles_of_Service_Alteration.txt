@@ -1,0 +1,8 @@
+Plan 31.2 Aldershot - Farnham Alton Line - Principles of Service Alteration
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Aldershot - Farnham Alton Line
+Blockage type: One line blocked (in either direction)
+Audience: service_controller
+
+Plan 31.2 Aldershot - Farnham Alton Line. Category: line blockage. Location: Aldershot - Farnham Alton Line. Blockage type: One line blocked (in either direction). Audience: service_controller. Recommended action (service_alteration): 1Axx xx.23/53 Waterloo - Alton & return services run to Aldershot . 1Zxx xx27/57 Farnham to Alton & 1Zxx xx14/44 Alton to Farnham shuttle. 2Jxx xx23/53 Guildford to Farnham terminate/start Aldershot .

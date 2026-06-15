@@ -1,0 +1,8 @@
+Plan 1.3 Surbiton - Hampton Court Junction Bournemouth Main Line - Passenger Information
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Surbiton - Hampton Court Junction Bournemouth Main Line
+Blockage type: UMSL blocked
+Audience: passenger
+
+Plan 1.3 Surbiton - Hampton Court Junction Bournemouth Main Line. Category: line blockage. Location: Surbiton - Hampton Court Junction Bournemouth Main Line. Blockage type: UMSL blocked. Audience: passenger. Recommended action (passenger_info): Passengers from Hinchley Wood, Claygate, Oxshot, Cobham and Stoke D’Abernon and Effingham Junction, Travel by Bus Replacement Service. K3 bus from Hinchley Wood to Surbiton (12 minutes) and Claygate to Surbiton (21 minutes) every 15 minutes. K2 bus Surbiton to Berrylands. (Every 10-12 minutes) journey time 6 minutes.

@@ -1,0 +1,8 @@
+Station disruption plan: Ash - Communication With Control
+Source: RM Central/Station Disruption Plan - Ash Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Ash
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Ash. Category: station disruption. Location: Ash. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

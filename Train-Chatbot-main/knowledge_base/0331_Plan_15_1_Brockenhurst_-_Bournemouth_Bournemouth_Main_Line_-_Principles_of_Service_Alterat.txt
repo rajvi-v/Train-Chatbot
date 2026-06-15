@@ -1,0 +1,8 @@
+Plan 15.1 Brockenhurst - Bournemouth Bournemouth Main Line - Principles of Service Alteration
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Brockenhurst - Bournemouth Bournemouth Main Line
+Blockage type: Both lines blocked
+Audience: service_controller
+
+Plan 15.1 Brockenhurst - Bournemouth Bournemouth Main Line. Category: line blockage. Location: Brockenhurst - Bournemouth Bournemouth Main Line. Blockage type: Both lines blocked. Audience: service_controller. Recommended action (service_alteration): 1Wxx xx.05 Waterloo - Weymouth & return services run between Bournemouth and Weymouth Only . (SSO Branksome & Parkstone) 1Bxx xx.35 Waterloo - Poole & return services run between Waterloo & Brockenhurst . (Consider SSO for Totton, Ashurst NF and Beaulieu Rd. 2Bxx xx.49 Winchester - Bournemouth & return services Cancelled throughout. Stock to berth at Southanpton and Bournemouth CrossCountry : 1Oxx (Down) & 1Mxx (Up) services terminate / start at Southampton Central (Run to Brockenhurst if not served by SWR and Crew PNB arrangements permit). Provide shuttle train service between Bournemouth and Weymouth in timings of 1Wxx xx35 Waterloo/xx.03 Weymouth.

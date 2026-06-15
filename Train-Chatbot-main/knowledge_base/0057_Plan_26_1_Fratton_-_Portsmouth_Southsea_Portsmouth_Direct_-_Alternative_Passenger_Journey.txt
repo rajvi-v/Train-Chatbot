@@ -1,0 +1,8 @@
+Plan 26.1 Fratton - Portsmouth & Southsea Portsmouth Direct - Alternative Passenger Journey
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Fratton - Portsmouth & Southsea Portsmouth Direct
+Blockage type: All lines blocked
+Audience: passenger
+
+Plan 26.1 Fratton - Portsmouth & Southsea Portsmouth Direct. Category: line blockage. Location: Fratton - Portsmouth & Southsea Portsmouth Direct. Blockage type: All lines blocked. Audience: passenger. Recommended action (alternative_passenger_journey): Local buses. SWR Bus replacement.

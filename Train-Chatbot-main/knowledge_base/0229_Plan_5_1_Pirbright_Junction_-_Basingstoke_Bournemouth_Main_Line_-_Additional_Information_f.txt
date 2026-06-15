@@ -1,0 +1,8 @@
+Plan 5.1 Pirbright Junction - Basingstoke Bournemouth Main Line - Additional Information for Station Staff
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Pirbright Junction - Basingstoke Bournemouth Main Line
+Blockage type: DMFL or UMFL blocked
+Audience: station_staff
+
+Plan 5.1 Pirbright Junction - Basingstoke Bournemouth Main Line. Category: line blockage. Location: Pirbright Junction - Basingstoke Bournemouth Main Line. Blockage type: DMFL or UMFL blocked. Audience: station_staff. Recommended action (station_staff_info): Passengers to circulate where possible SWR bus replacement Woking to Basingstoke all stations in Blocked direction only.

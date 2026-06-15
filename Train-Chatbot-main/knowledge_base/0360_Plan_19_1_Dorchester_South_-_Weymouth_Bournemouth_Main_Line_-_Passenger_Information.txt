@@ -1,0 +1,8 @@
+Plan 19.1 Dorchester South - Weymouth Bournemouth Main Line - Passenger Information
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Dorchester South - Weymouth Bournemouth Main Line
+Blockage type: One or both lines blocked
+Audience: passenger
+
+Plan 19.1 Dorchester South - Weymouth Bournemouth Main Line. Category: line blockage. Location: Dorchester South - Weymouth Bournemouth Main Line. Blockage type: One or both lines blocked. Audience: passenger. Recommended action (passenger_info): Local buses. Weymouth, Upwey and Dorchester Bus 10 (every 13 minutes) journey time 14 minutes to Upwey and Dorchester 22- 27 minutes SWR Rail replacement bus.

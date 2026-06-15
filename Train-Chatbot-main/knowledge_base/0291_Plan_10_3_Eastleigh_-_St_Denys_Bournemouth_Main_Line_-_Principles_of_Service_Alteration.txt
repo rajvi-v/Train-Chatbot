@@ -1,0 +1,8 @@
+Plan 10.3 Eastleigh - St. Denys Bournemouth Main Line - Principles of Service Alteration
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Eastleigh - St. Denys Bournemouth Main Line
+Blockage type: Down line blocked Status: ( Allbrook to Eastleigh South Junction available)
+Audience: service_controller
+
+Plan 10.3 Eastleigh - St. Denys Bournemouth Main Line. Category: line blockage. Location: Eastleigh - St. Denys Bournemouth Main Line. Blockage type: Down line blocked Status: ( Allbrook to Eastleigh South Junction available). Audience: service_controller. Recommended action (service_alteration): 1Wxx xx.05 Waterloo - Weymouth & return services run between Bournemouth and Weymouth . 1Bxx xx.35 Waterloo - Poole & return services Divert via Havant , (or reverse Fareham) in DOWN direction only. 2Bxx xx.49 Winchester - Bournemouth & return services run between Southampton Central and Bournemouth . 1Txx xx.09 Waterloo - Portsmouth Harbour (EH) & return services run as booked . 2Rxx xx 48 Salisbury - Romsey and return services run only between Southampton & Salisbury via Test Valley . CrossCountry : 1Oxx (Down) services divert between Basingstoke and Southampton Central via Laverstock/Test Valley in the Down Direction or services terminate/start Reading. Freight services diverted via Andover or Westbury in the Down Direction. Bus service Eastleigh - Southampton, running all stations in Down direction, Southampton Parkway only in Up direction.

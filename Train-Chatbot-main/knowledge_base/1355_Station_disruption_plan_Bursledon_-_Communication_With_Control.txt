@@ -1,0 +1,8 @@
+Station disruption plan: Bursledon - Communication With Control
+Source: RM South/Station Disruption Plan - Bursledon Issue 2 - February 2021.docx
+Category: station_disruption
+Location: Bursledon
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Bursledon. Category: station disruption. Location: Bursledon. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

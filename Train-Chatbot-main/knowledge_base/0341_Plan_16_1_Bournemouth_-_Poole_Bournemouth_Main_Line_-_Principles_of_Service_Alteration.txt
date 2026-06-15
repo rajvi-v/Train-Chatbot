@@ -1,0 +1,8 @@
+Plan 16.1 Bournemouth - Poole Bournemouth Main Line - Principles of Service Alteration
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Bournemouth - Poole Bournemouth Main Line
+Blockage type: One or both lines blocked
+Audience: service_controller
+
+Plan 16.1 Bournemouth - Poole Bournemouth Main Line. Category: line blockage. Location: Bournemouth - Poole Bournemouth Main Line. Blockage type: One or both lines blocked. Audience: service_controller. Recommended action (service_alteration): 1Wxx xx.05 Waterloo - Weymouth & return services run between Waterloo and Bournemouth and Poole and Weymouth . 1Bxx xx.35 Waterloo - Poole & return services run between Waterloo and Bournemouth . Bus service between Bournemouth and Poole.

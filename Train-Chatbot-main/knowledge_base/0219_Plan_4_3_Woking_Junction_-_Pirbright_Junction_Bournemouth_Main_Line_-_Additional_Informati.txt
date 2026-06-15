@@ -1,0 +1,8 @@
+Plan 4.3 Woking Junction - Pirbright Junction Bournemouth Main Line - Additional Information for Station Staff
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Woking Junction - Pirbright Junction Bournemouth Main Line
+Blockage type: All lines blocked
+Audience: station_staff
+
+Plan 4.3 Woking Junction - Pirbright Junction Bournemouth Main Line. Category: line blockage. Location: Woking Junction - Pirbright Junction Bournemouth Main Line. Blockage type: All lines blocked. Audience: station_staff. Recommended action (station_staff_info): SWR Bus replacement Woking to Farnborough (if Farnborough -Basingstoke shuttle implemented) if not Woking to Basingstoke Fast Bus and Stopping bus. Ticket acceptance GWR Farnborough North to Guildford & Basingstoke to Paddington via Reading GTR/Southern Southampton to Havant and Clapham Junction 2Jxx Farnham to Guildford and return cancelled. 1Axx Alton services diverted via Guildford SSO Wanborough and Ash

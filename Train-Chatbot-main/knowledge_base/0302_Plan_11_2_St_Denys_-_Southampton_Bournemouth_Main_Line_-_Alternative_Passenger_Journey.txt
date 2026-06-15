@@ -1,0 +1,8 @@
+Plan 11.2 St. Denys - Southampton Bournemouth Main Line - Alternative Passenger Journey
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: St. Denys - Southampton Bournemouth Main Line
+Blockage type: One line available through Southampton Tunnel Bi-directional signalling available
+Audience: passenger
+
+Plan 11.2 St. Denys - Southampton Bournemouth Main Line. Category: line blockage. Location: St. Denys - Southampton Bournemouth Main Line. Blockage type: One line available through Southampton Tunnel Bi-directional signalling available. Audience: passenger. Recommended action (alternative_passenger_journey): SWR Bus replacement / Local buses.

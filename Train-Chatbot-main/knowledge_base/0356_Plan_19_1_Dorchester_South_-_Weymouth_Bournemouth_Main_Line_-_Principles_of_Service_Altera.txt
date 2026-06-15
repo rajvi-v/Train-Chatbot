@@ -1,0 +1,8 @@
+Plan 19.1 Dorchester South - Weymouth Bournemouth Main Line - Principles of Service Alteration
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Dorchester South - Weymouth Bournemouth Main Line
+Blockage type: One or both lines blocked
+Audience: service_controller
+
+Plan 19.1 Dorchester South - Weymouth Bournemouth Main Line. Category: line blockage. Location: Dorchester South - Weymouth Bournemouth Main Line. Blockage type: One or both lines blocked. Audience: service_controller. Recommended action (service_alteration): 1Wxx xx.05 Waterloo - Weymouth & return Terminate/Start Dorchester South. GWR: S ervices terminate Dorchester West.

@@ -1,0 +1,8 @@
+Plan 30.1 Aldershot North Junction - Aldershot Alton Line - Information for Signallers
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Aldershot North Junction - Aldershot Alton Line
+Blockage type: One or both lines blocked
+Audience: signaller
+
+Plan 30.1 Aldershot North Junction - Aldershot Alton Line. Category: line blockage. Location: Aldershot North Junction - Aldershot Alton Line. Blockage type: One or both lines blocked. Audience: signaller. Recommended action (signaller_info): 1Axx Alton to Waterloo terminate Aldershot to form Shuttle. Any surplus stock ECS to Farnham Shed. Any Down 1Axx Waterloo to Alton, Terminate Woking then Berth. if passed Woking divert to Basingstoke. 2Jxx Guildford to Farnham hold at Guildford or Terminate Ash run in service back to Guildford.

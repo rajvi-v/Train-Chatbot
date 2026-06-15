@@ -1,0 +1,8 @@
+Plan 4.2 Woking Junction - Pirbright Junction Bournemouth Main Line - Passenger Information
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Woking Junction - Pirbright Junction Bournemouth Main Line
+Blockage type: DMSL or UMSL blocked
+Audience: passenger
+
+Plan 4.2 Woking Junction - Pirbright Junction Bournemouth Main Line. Category: line blockage. Location: Woking Junction - Pirbright Junction Bournemouth Main Line. Blockage type: DMSL or UMSL blocked. Audience: passenger. Recommended action (passenger_info): N/A

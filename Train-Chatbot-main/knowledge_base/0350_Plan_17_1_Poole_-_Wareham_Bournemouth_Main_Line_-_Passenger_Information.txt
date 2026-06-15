@@ -1,0 +1,8 @@
+Plan 17.1 Poole - Wareham Bournemouth Main Line - Passenger Information
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Poole - Wareham Bournemouth Main Line
+Blockage type: One or both lines blocked
+Audience: passenger
+
+Plan 17.1 Poole - Wareham Bournemouth Main Line. Category: line blockage. Location: Poole - Wareham Bournemouth Main Line. Blockage type: One or both lines blocked. Audience: passenger. Recommended action (passenger_info): Local buses. Passengers at Wareham for Poole and return, bus 40 and X54, Hourly Journey time 30-35 minutes Passengers at Hamworthy to Poole buses 8,9 and X54 every 15 minutes journey time 20 minutes.

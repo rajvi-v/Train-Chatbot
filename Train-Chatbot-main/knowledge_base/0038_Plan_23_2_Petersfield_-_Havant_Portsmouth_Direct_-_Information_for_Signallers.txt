@@ -1,0 +1,8 @@
+Plan 23.2 Petersfield - Havant Portsmouth Direct - Information for Signallers
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Petersfield - Havant Portsmouth Direct
+Blockage type: One line blocked (in either direction) Status: (Single Line Working not practicable)
+Audience: signaller
+
+Plan 23.2 Petersfield - Havant Portsmouth Direct. Category: line blockage. Location: Petersfield - Havant Portsmouth Direct. Blockage type: One line blocked (in either direction) Status: (Single Line Working not practicable). Audience: signaller. Recommended action (signaller_info): 1Pxx xx.00 Waterloo - Portsmouth Harbour & xx.15 return services cancelled . 1Pxx xx.30 Waterloo - Portsmouth Harbour & xx.45 return Divert via Eastleigh in affected direction 2Pxx xx.45 Waterloo - Portsmouth & Southsea / Harbour & xx.18/24 return services run via Eastleigh in blocked direction. If 1Pxx xx00 has departed Guildford terminate Haslemere and run fast to Fratton, if departed Haslemere call Liphook and Liss terminate Petersfield call Liss, Liphook and Haslemere then fast to Fratton. If blocked direction. As booked in unaffected direction.

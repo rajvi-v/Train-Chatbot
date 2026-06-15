@@ -1,0 +1,8 @@
+Plan 29.2 Ash Vale - Aldershot North Junction Alton Line - Additional Information for Station Staff
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Ash Vale - Aldershot North Junction Alton Line
+Blockage type: One line blocked (in either direction)
+Audience: station_staff
+
+Plan 29.2 Ash Vale - Aldershot North Junction Alton Line. Category: line blockage. Location: Ash Vale - Aldershot North Junction Alton Line. Blockage type: One line blocked (in either direction). Audience: station_staff. Recommended action (station_staff_info): SWR Bus replacement to run Aldershot to Ash vale and Brookwood in blocked direction. SWR Bus Replacement to run Aldershot to Ascot and return.

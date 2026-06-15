@@ -1,0 +1,8 @@
+Plan 5.4 Pirbright Junction - Basingstoke Bournemouth Main Line - Alternative Passenger Journey
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Pirbright Junction - Basingstoke Bournemouth Main Line
+Blockage type: Both lines blocked ( in the same direction)
+Audience: passenger
+
+Plan 5.4 Pirbright Junction - Basingstoke Bournemouth Main Line. Category: line blockage. Location: Pirbright Junction - Basingstoke Bournemouth Main Line. Blockage type: Both lines blocked ( in the same direction). Audience: passenger. Recommended action (alternative_passenger_journey): SWR bus replacement. Local buses. Ticket acceptance Southern/GTR and GWR.

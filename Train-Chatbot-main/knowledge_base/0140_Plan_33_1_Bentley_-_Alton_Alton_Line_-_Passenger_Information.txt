@@ -1,0 +1,8 @@
+Plan 33.1 Bentley - Alton Alton Line - Passenger Information
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Bentley - Alton Alton Line
+Blockage type: Line blocked
+Audience: passenger
+
+Plan 33.1 Bentley - Alton Alton Line. Category: line blockage. Location: Bentley - Alton Alton Line. Blockage type: Line blocked. Audience: passenger. Recommended action (passenger_info): Passengers for Bentley and Alton bus 65. Five minute walk from station. Passengers at Bentley for Alton and Farnham. Station to Star Inn (bus stop) 1.1 miles, twenty minute walk then 65 bus to Farnham and Alton.

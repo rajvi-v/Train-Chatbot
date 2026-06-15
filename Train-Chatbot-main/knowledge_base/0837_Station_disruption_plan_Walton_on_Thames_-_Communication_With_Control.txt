@@ -1,0 +1,8 @@
+Station disruption plan: Walton on Thames - Communication With Control
+Source: RM Central/Station Disruption Plan - Walton on Thames Issue 1 - April 2018.docx
+Category: station_disruption
+Location: Walton on Thames
+Blockage type: station or platform disruption
+Audience: service_controller
+
+Station disruption plan for Walton on Thames. Category: station disruption. Location: Walton on Thames. Blockage type: station or platform disruption. Audience: service_controller. Recommended action (Communication With Control): Information Flow During Disruption

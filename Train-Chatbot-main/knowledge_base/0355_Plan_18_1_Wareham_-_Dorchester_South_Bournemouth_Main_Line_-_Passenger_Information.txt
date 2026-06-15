@@ -1,0 +1,8 @@
+Plan 18.1 Wareham - Dorchester South Bournemouth Main Line - Passenger Information
+Source: Mainline CPT (8th May 21).pptm
+Category: line_blockage
+Location: Wareham - Dorchester South Bournemouth Main Line
+Blockage type: One or both lines blocked
+Audience: passenger
+
+Plan 18.1 Wareham - Dorchester South Bournemouth Main Line. Category: line blockage. Location: Wareham - Dorchester South Bournemouth Main Line. Blockage type: One or both lines blocked. Audience: passenger. Recommended action (passenger_info): Local buses. Weymouth, Upwey and Dorchester Bus 10 (every 13 minutes) journey time 14 minutes to Upwey and Dorchester 22- 27 minutes Weymouth to Wareham bus X54 depart @ 0748,1000,1230,1645. Wool 30-50 minutes later, Wareham 56-69 minutes later also runs to Hamworthy and Poole Wareham to Weymouth X54 departs Wareham @ 1011,1246,1507,1911. Wool 16 minutes later. Weymouth 76 minutes later Moreton no local buses Holton Heath to Wareham and Poole Bus 40, hourly service Poole to Holton Heath 23 minutes, Holton Health to Wareham 9 minutes.

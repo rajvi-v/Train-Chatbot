@@ -1,0 +1,8 @@
+Plan 23.1 Petersfield - Havant Portsmouth Direct - Passenger Information
+Source: 20 Batch 2 LOR 2-4 CPT (19th May 21).pptm
+Category: line_blockage
+Location: Petersfield - Havant Portsmouth Direct
+Blockage type: Both lines blocked
+Audience: passenger
+
+Plan 23.1 Petersfield - Havant Portsmouth Direct. Category: line blockage. Location: Petersfield - Havant Portsmouth Direct. Blockage type: Both lines blocked. Audience: passenger. Recommended action (passenger_info): Passengers at Havant for Petersfield bus 37 (1 st bus @ 0700 last 1710 hourly, Journey time 78 minutes). Passengers at Petersfield to Havant bus 37 (1 st bus @ 0640 last 1840 hourly, Journey time 80 minutes). Passengers at Rowlands Castle for Havant bus 27 (@ 1000,1200,1440,1640. 26 minutes). Passengers at Havant for Rowlands Castle bus 27 (@ 0920,1120,1400,1600. 32 minutes).
